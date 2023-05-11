@@ -1,0 +1,1819 @@
+CustomerNumber,CustomerServiceZipCode,CustomerServiceCity,Priority,TechType,NextOilChangeDate,LastOilChangeDate,CustomerIsActive
+4288,94107,San Francisco,5. Normal,Level 1 (i.e. air cooled),,,TRUE
+466,94501,Alameda,1. Life Safety,Level 2 (i.e. liquid cooled),8/18/2023,8/18/2022,TRUE
+1354,94502,Alameda,5. Normal,Level 1,9/14/2016,,FALSE
+1401,94501,Alameda,,,,,TRUE
+3296,94501,Alameda,,,,,FALSE
+4240,94502,Alameda,,,,,TRUE
+4324,94501,Alameda,,Level 3 (i.e. diesel),,,TRUE
+4384,94501,Alameda,,,,,TRUE
+4399,94501,Alameda,,,,,TRUE
+4410,94501,Alameda,,,,,TRUE
+4411,94501,Alameda,5. Normal,Level 2 (i.e. liquid cooled),5/21/2022,,TRUE
+4412,94501,Alameda,,Level 3 (i.e. diesel),,5/21/2021,TRUE
+4413,94501,Alameda,,Level 3 (i.e. diesel),,,TRUE
+4414,94501,Alameda,,,,6/9/2022,TRUE
+4457,,Alameda,5. Normal,Level 3 (i.e. diesel),,,TRUE
+4534,94501,Alameda,5. Normal,Level 3 (i.e. diesel),,1/20/2023,TRUE
+4535,94501,Alameda,,Level 2 (i.e. liquid cooled),,1/20/2023,TRUE
+4570,94501,Alameda,,,,,TRUE
+4606,94501,Alameda,,,,,TRUE
+136,94507,Alamo,5. Normal,,11/14/2020,11/14/2019,TRUE
+934,94507,Alamo,5. Normal,Level 1 (i.e. air cooled),8/30/2023,8/30/2022,TRUE
+2241,,Alamo,1. Life Safety,Level 2 (i.e. liquid cooled),1/26/2024,1/26/2023,TRUE
+2904,94507,Alamo,,,,,FALSE
+2958,94507,Alamo,,,,,FALSE
+2996,94507,Alamo,5. Normal,Level 1 (i.e. air cooled),3/15/2023,3/15/2022,TRUE
+3552,94507,Alamo,6. Residential,Level 1 (i.e. air cooled),11/3/2022,11/3/2021,TRUE
+3588,94507,Alamo,,,,,FALSE
+3923,94507,Alamo,6. Residential,,,,FALSE
+3995,94507,Alamo,,Level 2 (i.e. liquid cooled),9/7/2022,9/7/2021,TRUE
+3996,94507,Alamo,,,9/22/2021,9/22/2020,TRUE
+4449,94507,Alamo,6. Residential,Level 1 (i.e. air cooled),8/30/2023,8/30/2022,TRUE
+4450,94507,Alamo,6. Residential,Level 1 (i.e. air cooled),8/30/2023,8/30/2022,TRUE
+2984,94706,Albany,6. Residential,Level 1 (i.e. air cooled),11/29/2023,11/29/2022,TRUE
+3091,94706,Albany,6. Residential,Level 1,1/12/2019,1/12/2018,TRUE
+639,94503,American Canyon,5. Normal,Level 2 (i.e. liquid cooled),12/22/2023,12/22/2022,TRUE
+2891,99516,Anchorage,,,,,FALSE
+3002,99516,Anchorage,,,,,FALSE
+645,94508,Angwin,,,,,FALSE
+4213,94509,Antioch,,,,,TRUE
+3841,95003,Aptos,,,,,FALSE
+4053,95003,Aptos,,,,,TRUE
+1214,95004,Aromas,6: Residential,,,,FALSE
+1544,95004,Aromas,,,,,FALSE
+268,94027,Atherton,6. Residential,Level 1 (i.e. air cooled),1/18/2022,1/18/2021,TRUE
+292,94027,Atherton,6. Residential,Level 1 (i.e. air cooled),12/15/2023,12/15/2022,TRUE
+324,94027,Atherton,,,,,TRUE
+346,,Atherton,6. Residential,,7/2/2020,7/2/2019,TRUE
+351,,Atherton,,,2/2/2018,,TRUE
+359,94027,Atherton,1. Life Safety,Level 1 (i.e. air cooled),7/7/2023,7/7/2022,TRUE
+510,94025-4212,Atherton,,,,,FALSE
+569,94027,Atherton,6. Residential,Level 2 (i.e. liquid cooled),3/21/2024,3/21/2023,TRUE
+586,94027,Atherton,6. Residential,Level 1,12/6/2019,12/6/2018,FALSE
+641,94007,Atherton,,,,,TRUE
+643,94027,Atherton,6. Residential,Level 2,7/26/2019,7/26/2017,FALSE
+660,94027,Atherton,6. Residential,,8/16/2021,8/27/2020,TRUE
+670,94027,Atherton,6. Residential,Level 2,,,FALSE
+674,94027,Atherton,6. Residential,,12/1/2018,12/8/2017,TRUE
+711,94027,Atherton,6. Residential,,11/2/2022,11/2/2021,TRUE
+718,94027,Atherton,6. Residential,Level 2 (i.e. liquid cooled),10/26/2022,10/26/2021,TRUE
+1152,94027,Atherton,6. Residential,Level 1,11/30/2017,11/30/2016,FALSE
+1197,,Atherton,,,3/17/2018,,TRUE
+1233,94027,Atherton,6. Residential,,11/21/2020,11/21/2019,TRUE
+1247,94027,Atherton,6. Residential,Level 2,1/10/2018,1/10/2017,TRUE
+1305,94027,Atherton,6. Residential,Level 2,2/2/2018,,TRUE
+1412,94024,Atherton,,,,,FALSE
+1562,94027,Atherton,6. Residential,,6/22/2021,6/22/2020,FALSE
+1580,,Atherton,6. Residential,,,,FALSE
+2050,94027,Atherton,6. Residential,,10/7/2020,10/7/2019,TRUE
+2079,94027,Atherton,6. Residential,Level 1 (i.e. air cooled),4/12/2023,4/12/2023,TRUE
+2288,,Atherton,,,,,FALSE
+2949,94027,Atherton,6. Residential,Level 2,12/15/2018,12/15/2017,FALSE
+3073,94027,Atherton,,,,,FALSE
+3076,94027,Atherton,,,,,FALSE
+3136,94027,Atherton,6. Residential,Level 2,,,FALSE
+3240,94027,Atherton,6. Residential,Level 1,7/10/2019,7/10/2018,FALSE
+3313,,Atherton,6. Residential,Level 1 (i.e. air cooled),2/21/2023,2/21/2022,TRUE
+3389,94027,Atherton,6. Residential,Level 2 (i.e. liquid cooled),8/3/2022,8/3/2021,TRUE
+3451,94027,Atherton,6. Residential,Level 1,,,FALSE
+3494,94027,Atherton,6. Residential,,10/23/2020,10/23/2019,TRUE
+3626,94027,Atherton,6. Residential,,,,FALSE
+3672,94027,Atherton,6. Residential,Level 2 (i.e. liquid cooled),9/7/2023,9/7/2022,TRUE
+3747,94027,Atherton,6. Residential,,1/1/2019,1/1/2018,FALSE
+3779,94027,Atherton,6. Residential,Level 2 (i.e. liquid cooled),10/4/2022,10/4/2021,TRUE
+3879,94027,Atherton,6. Residential,,,,TRUE
+3966,94027,Atherton,,,,,FALSE
+3980,94027,Atherton,6. Residential,Level 1 (i.e. air cooled),9/21/2023,9/21/2022,TRUE
+3985,94027,Atherton,,,,,TRUE
+4077,94027,Atherton,6. Residential,Level 2 (i.e. liquid cooled),9/7/2023,9/7/2022,TRUE
+4131,94027,Atherton,,Level 2 (i.e. liquid cooled),6/3/2022,5/13/2022,TRUE
+4289,94027,Atherton,,,,,TRUE
+4290,94027,Atherton,6. Residential,Level 2 (i.e. liquid cooled),1/3/2024,1/3/2023,TRUE
+4380,94027,Atherton,,Level 1 (i.e. air cooled),4/12/2024,4/12/2023,TRUE
+4395,94027,Atherton,6. Residential,,,,TRUE
+4400,94027,Atherton,5. Normal,Level 2 (i.e. liquid cooled),6/15/2023,6/15/2022,TRUE
+4431,94027,Atherton,6. Residential,Level 1 (i.e. air cooled),7/26/2023,7/26/2022,TRUE
+4539,94027,Atherton,6. Residential,Level 2 (i.e. liquid cooled),1/12/2024,1/12/2023,TRUE
+4542,94027,Atherton,,,,,TRUE
+4554,94027,Atherton,6. Residential,,,,TRUE
+4573,94027,Atherton,5. Normal,Level 3 (i.e. diesel),,,TRUE
+4588,94027,Atherton,,,,,TRUE
+2304,95602,Auburn,5. Normal,Level 3 (i.e. diesel),8/6/2023,8/6/2022,TRUE
+3959,95602,Auburn,,,,,TRUE
+120,94002,Belmont,,,,,TRUE
+1336,94002,Belmont,1. Life Safety,Level 2 (i.e. liquid cooled),6/26/2023,6/26/2022,TRUE
+2055,94002,Belmont,,,,,TRUE
+3398,94002,Belmont,,,,,TRUE
+3477,94002,Belmont,5. Normal,Level 3 (i.e. diesel),7/14/2022,7/14/2021,TRUE
+3748,94002,Belmont,6. Residential,,,,FALSE
+4139,94002,Belmont,,,,,TRUE
+4204,94002,Belmont,,,,,TRUE
+4350,94002,Belmont,,,,,TRUE
+4233,94920,Belvedere,1. Life Safety,Level 3 (i.e. diesel),,,TRUE
+869,95005,Ben Lomond,,,,,FALSE
+284,,Benicia,5. Normal,Level 3 (i.e. diesel),11/2/2023,11/2/2022,TRUE
+1,94703,Berkeley,,,,,TRUE
+7,94709,Berkeley,5. Normal,Level 2 (i.e. liquid cooled),12/14/2021,12/14/2020,TRUE
+9,94709,Berkeley,5. Normal,,3/20/2024,3/20/2023,TRUE
+516,,Berkeley,5. Normal,Level 2 (i.e. liquid cooled),1/18/2024,1/18/2023,TRUE
+716,94710,Berkeley,1. Life Safety,Level 1 (i.e. air cooled),5/27/2023,5/27/2022,TRUE
+805,94707,Berkeley,6. Residential,Level 1 (i.e. air cooled),9/20/2023,9/20/2022,TRUE
+1122,,Berkeley,,,,,FALSE
+1444,94708,Berkeley,6. Residential,Level 1 (i.e. air cooled),4/17/2024,4/17/2023,TRUE
+2558,94704-2525,Berkeley,6. Residential,Level 1,,3/7/2016,FALSE
+2798,94720,Berkeley,,,,,TRUE
+3211,94704,Berkeley,5. Normal,Level 3,5/4/2019,5/4/2018,TRUE
+3261,94708,Berkeley,,,,,FALSE
+3338,94704,Berkeley,6. Residential,Level 1 (i.e. air cooled),12/13/2022,12/13/2021,TRUE
+3393,94709,Berkeley,,,1/1/2021,,TRUE
+3556,94705,Berkeley,1. Life Safety,,,4/16/2019,TRUE
+3670,94708,Berkeley,6. Residential,,,,FALSE
+3731,94708,Berkeley,6. Residential,,,,FALSE
+3764,94705,Berkeley,,,,,FALSE
+3855,94705,Berkeley,6. Residential,Level 1 (i.e. air cooled),6/27/2023,6/27/2022,TRUE
+3938,94707,Berkeley,7. Remote,Level 1 (i.e. air cooled),8/29/2023,8/29/2022,FALSE
+4091,94710,Berkeley,,,,,TRUE
+4153,94704,Berkeley,,,,,TRUE
+4208,94705,Berkeley,6. Residential,Level 1 (i.e. air cooled),7/31/2022,,TRUE
+3351,93920,Big Sur,,,,,FALSE
+4482,94506,Blackhawk,,,,,TRUE
+3290,94923,Bodega Bay,,,,,FALSE
+1363,95006,Boulder Creek,7. Remote,,7/16/2020,7/16/2019,TRUE
+3093,95006,Boulder Creek,6. Residential,,12/28/2017,12/12/2016,TRUE
+2875,47833,Bowling Green,,,,,FALSE
+3072,94513,Brentwood,,,,,FALSE
+1611,94005,Brisbane,,,3/6/2018,,FALSE
+3371,94005,Brisbane,5. Normal,Level 1,,,FALSE
+169,94010,Burlingame,,,,,FALSE
+283,94010,Burlingame,6. Residential,Level 1,9/12/2018,9/12/2017,TRUE
+536,94010,Burlingame,6. Residential,,10/23/2020,10/23/2019,TRUE
+650,94010,Burlingame,,,10/28/2019,10/2/2018,TRUE
+1440,94010,Burlingame,6. Residential,Level 1 (i.e. air cooled),10/10/2023,10/26/2021,TRUE
+1633,94010,Burlingame,5. Normal,Level 2 (i.e. liquid cooled),9/21/2023,9/21/2022,TRUE
+1778,94010,Burlingame,5. Normal,Level 1 (i.e. air cooled),6/25/2022,6/25/2021,TRUE
+1869,,Burlingame,8. Portable/RV/other,,11/15/2017,,FALSE
+3112,94010,Burlingame,5. Normal,Level 2 (i.e. liquid cooled),3/31/2024,3/31/2023,TRUE
+3144,94010,Burlingame,5. Normal,Level 2,,,FALSE
+3159,94010,Burlingame,,,,,FALSE
+3243,94010,Burlingame,,,8/28/2019,8/28/2018,FALSE
+4560,94010,Burlingame,1. Life Safety,Level 2 (i.e. liquid cooled),4/12/2024,4/12/2023,TRUE
+4596,94010,Burlingame,,Level 3 (i.e. diesel),,,TRUE
+2300,94515,Calistoga,,,,,FALSE
+4571,8104,Camden,5. Normal,Level 2 (i.e. liquid cooled),,,TRUE
+373,95008,Campbell,5. Normal,Level 3 (i.e. diesel),7/6/2022,7/6/2021,TRUE
+484,95008,Campbell,1. Life Safety,Level 2 (i.e. liquid cooled),1/24/2024,1/24/2023,TRUE
+1249,95008,Campbell,,,,,TRUE
+1282,95008,Campbell,5. Normal,Level 1 (i.e. air cooled),12/14/2023,12/14/2022,TRUE
+1626,95008,Campbell,1. Life Safety,Level 1 (i.e. air cooled),,,TRUE
+1806,95008,Campbell,1. Life Safety,Level 1 (i.e. air cooled),12/14/2023,12/14/2022,TRUE
+3547,95008,Campbell,,,,,TRUE
+4438,95008,Campbell,5. Normal,,,,TRUE
+4078,95010,Capitola,5. Normal,Level 1 (i.e. air cooled),,,TRUE
+3146,60188,Carol Stream,5. Normal,,,,FALSE
+509,94546,Castro Valley,1. Life Safety,Level 1 (i.e. air cooled),3/14/2023,3/14/2022,TRUE
+830,94552,Castro Valley,6. Residential,,10/1/2017,,TRUE
+1575,,Castro Valley,,,,,FALSE
+1606,94552,Castro Valley,6. Residential,,12/24/2019,12/24/2018,TRUE
+1638,94552,Castro Valley,,,,,TRUE
+2245,94552,Castro Valley,1. Life Safety,Level 2 (i.e. liquid cooled),4/6/2024,4/6/2023,TRUE
+2249,94546,Castro Valley,,Level 1 (i.e. air cooled),4/6/2024,4/6/2023,TRUE
+2250,94552,Castro Valley,1. Life Safety,Level 1 (i.e. air cooled),4/6/2024,4/6/2023,TRUE
+2254,94546,Castro Valley,1. Life Safety,Level 3 (i.e. diesel),4/6/2024,4/6/2023,TRUE
+3436,94552,Castro Valley,6. Residential,,10/29/2021,10/29/2020,TRUE
+3437,94552,Castro Valley,6. Residential,Level 1 (i.e. air cooled),11/15/2022,11/15/2021,TRUE
+3666,94552,Castro Valley,,,,,FALSE
+3906,94552,Castro Valley,6. Residential,,,,FALSE
+3912,94552,Castro Valley,6. Residential,Level 1 (i.e. air cooled),9/14/2023,9/14/2022,TRUE
+4182,94546,Castro Valley,1. Life Safety,Level 2 (i.e. liquid cooled),8/9/2023,8/9/2022,TRUE
+4407,94546,Castro Valley,,Level 2 (i.e. liquid cooled),,,TRUE
+3410,95421,Cazadero,,,,,FALSE
+1432,93610,Chowchilla,5: Normal,,,,FALSE
+3220,824,Christiansted ,,,,,FALSE
+3783,95423,Clearlake Oaks,,,,,FALSE
+94,94520,Concord,5. Normal,Level 2,11/16/2018,11/16/2017,TRUE
+2917,94521,Concord,,,,,FALSE
+2929,94520,Concord,1. Life Safety,Level 2,4/9/2020,4/9/2019,FALSE
+3857,94520,Concord,5. Normal,Level 3 (i.e. diesel),7/15/2022,7/15/2021,TRUE
+3981,94520,Concord,,,,,TRUE
+4000,94520,Concord,,Level 3 (i.e. diesel),11/1/2021,10/22/2020,FALSE
+4198,94520,Concord,1. Life Safety,Level 3 (i.e. diesel),12/20/2023,12/20/2022,TRUE
+1250,,Corona,,,,,FALSE
+198,95014,Cupertino,,,,,TRUE
+416,95014,Cupertino,6. Residential,Level 1,3/25/2020,3/25/2019,FALSE
+1371,,Cupertino,6. Residential,Level 1,11/1/2017,,FALSE
+2961,95014,Cupertino,6. Residential,,,,TRUE
+3924,95014,Cupertino,,,,,FALSE
+3946,95014,Cupertino,,,,,TRUE
+2851,94015,Daly City,1. Life Safety,Level 2 (i.e. liquid cooled),1/2/2018,1/2/2017,TRUE
+2746,92629,Dana Point,,,,,FALSE
+2962,92629,Dana Point,,,,,FALSE
+495,94526,Danville,,,,,FALSE
+1236,94526-1702,Danville,6. Residential,Level 1,10/30/2020,10/30/2019,FALSE
+1320,94526,Danville,5. Normal,Level 1 (i.e. air cooled),4/20/2024,4/20/2023,TRUE
+3353,94526,Danville,,,,,FALSE
+3372,94526,Danville,6. Residential,Level 1 (i.e. air cooled),9/15/2023,9/15/2022,TRUE
+3538,94506,Danville,6. Residential,,,,FALSE
+3575,94526,Danville,6. Residential,,,,FALSE
+3907,94526,Danville,6. Residential,Level 1 (i.e. air cooled),10/16/2022,10/21/2021,TRUE
+4004,94526,Danville,,,,,FALSE
+4320,94506,Danville,6. Residential,,,,TRUE
+4416,94526,Danville,,,,,TRUE
+1987,95618,Davis,,,,,FALSE
+3380,93953,Del Monte Forest,,,,,FALSE
+4010,94528,Diablo,,,10/2/2021,10/2/2020,FALSE
+749,94568,Dublin,5. Normal,,5/22/2017,11/22/2016,TRUE
+1422,94568,Dublin,,,,,FALSE
+1711,94568,Dublin,,,2/1/2021,,TRUE
+2352,94568,Dublin,5. Normal,,,,TRUE
+2685,94568,Dublin,,,,,TRUE
+2850,94568,Dublin,1. Life Safety,Level 1 (i.e. air cooled),2/2/2024,2/2/2023,TRUE
+2948,94568,Dublin,,,,,FALSE
+3467,94568,Dublin,6. Residential,,,,FALSE
+3567,94568,Dublin,6. Residential,,,,FALSE
+3707,94568,Dublin,,,,,FALSE
+3976,,Dublin,,,,,TRUE
+4031,94568,Dublin,,,,,TRUE
+4255,94568,Dublin,1. Life Safety,Level 3 (i.e. diesel),,,TRUE
+4298,94568,Dublin,,,,,TRUE
+3816,9456,Dublin ,5. Normal,,1/30/2021,1/30/2020,FALSE
+3236,94303,East Palo Alto,,,,,FALSE
+4480,94303,East Palo Alto,,,,,TRUE
+121,94530,El Cerrito,5. Normal,,4/9/2022,4/15/2020,TRUE
+281,94530,El Cerrito,,,,,TRUE
+3568,94530,El Cerrito,6. Residential,,,,FALSE
+4501,94530,El Cerrito,5. Normal,Level 1 (i.e. air cooled),11/29/2023,11/29/2022,TRUE
+193,95762,El Dorado Hills,,,,,FALSE
+2264,94018,El Granada,,,6/20/2020,4/5/2018,TRUE
+4171,94803,El Sobrante,8. Portable/RV/other,,,,TRUE
+3116,95433,El Verano,5. Normal,,,,FALSE
+1328,46514,Elkhart,,,,,TRUE
+2197,95626,Elverta,,,,,TRUE
+1186,94062,Emerald Hills,,,,,TRUE
+3405,94062,Emerald Hills,6. Residential,Level 1,,,FALSE
+3553,94062,Emerald Hills,6. Residential,Level 2,,,FALSE
+4030,94062,Emerald Hills,6. Residential,Level 1 (i.e. air cooled),11/9/2023,11/9/2022,TRUE
+1769,,Emeryville,1. Life Safety,,1/1/2021,,TRUE
+2972,94608,Emeryville,1. Life Safety,,2/1/2021,,TRUE
+3092,94608,Emeryville,5. Normal,,,,FALSE
+3223,94608,Emeryville,,,,,FALSE
+3339,94608,Emeryville,5. Normal,,,,FALSE
+3355,94608,Emeryville,,,,,FALSE
+3365,94608,Emeryville,,Level 2 (i.e. liquid cooled),2/1/2022,,TRUE
+3931,94608,Emeryville,,,2/12/2021,2/12/2020,TRUE
+3970,94608,Emeryville,5. Normal,,,,TRUE
+4175,94608,Emeryville,,Level 3 (i.e. diesel),,1/6/2021,TRUE
+4285,94608,Emeryville,5. Normal,,,,TRUE
+4291,94608,Emeryville,,,,,TRUE
+4552,94608,Emeryville,,,,,TRUE
+4564,94608,Emeryville,,,,,TRUE
+4565,94608,Emeryville,,,,,TRUE
+4566,94608,Emeryville,,,,,TRUE
+4567,94608,Emeryville,,,,,TRUE
+4568,94608,Emeryville,,,,,TRUE
+2799,95627,Esparto,,,,,FALSE
+2991,97023,Estacada,,,,,FALSE
+1663,,Fairfax,,,,,TRUE
+3450,94930,Fairfax,6. Residential,,4/24/2020,4/24/2019,FALSE
+362,94533,Fairfield,,,,,FALSE
+2829,94534,Fairfield,,,,,FALSE
+3606,95018,Felton,6. Residential,Level 2,,,FALSE
+3100,95629,Fiddletown,,,,,TRUE
+287,94404,Foster City,6. Residential,,9/25/2021,9/25/2020,TRUE
+1064,94404,Foster City,,,,,FALSE
+2840,,Foster City,,,,,FALSE
+2919,94404,Foster City,5. Normal,Level 3 (i.e. diesel),1/1/2021,,TRUE
+3109,94404,Foster City,5. Normal,Level 2 (i.e. liquid cooled),2/5/2022,2/5/2021,FALSE
+4349,94404,Foster City,5. Normal,Level 2 (i.e. liquid cooled),2/14/2024,2/14/2023,TRUE
+157,,Fremont,,,,,FALSE
+210,94538-5111,Fremont,,,,,TRUE
+396,94538,Fremont,,,,,TRUE
+452,,Fremont,5. Normal,Level 2 (i.e. liquid cooled),10/10/2023,10/10/2022,TRUE
+642,94538,Fremont,1. Life Safety,Level 2 (i.e. liquid cooled),3/9/2023,3/9/2022,TRUE
+991,94555,Fremont,6. Residential,,12/13/2018,12/13/2017,TRUE
+1387,94538,Fremont,1. Life Safety,,10/8/2022,10/8/2021,TRUE
+1458,94538,Fremont,5. Normal,Level 1 (i.e. air cooled),3/10/2023,3/10/2022,TRUE
+1528,94538,Fremont,,,,,FALSE
+1585,94538,Fremont,,Level 2 (i.e. liquid cooled),3/14/2024,3/14/2023,TRUE
+1725,94536,Fremont,5. Normal,Level 1 (i.e. air cooled),7/22/2023,7/22/2022,TRUE
+2047,94539-5404,Fremont,6. Residential,Level 1 (i.e. air cooled),1/25/2024,1/25/2023,TRUE
+2418,94539,Fremont,6. Residential,,4/26/2020,4/26/2019,TRUE
+2495,94539,Fremont,6. Residential,Level 1 (i.e. air cooled),2/10/2024,2/10/2023,TRUE
+2942,94539,Fremont,5. Normal,Level 2,,,FALSE
+2970,94538,Fremont,,,,,FALSE
+3075,94538,Fremont,,,,,FALSE
+3239,94539,Fremont,5. Normal,,,,FALSE
+3391,94538,Fremont,5. Normal,,,,FALSE
+3403,94538,Fremont,5. Normal,Level 3 (i.e. diesel),12/28/2023,12/28/2022,TRUE
+3443,94539,Fremont,6. Residential,,,,FALSE
+3461,94539,Fremont,6. Residential,Level 1 (i.e. air cooled),7/1/2020,,TRUE
+3536,94539,Fremont,6. Residential,Level 1,,,FALSE
+3551,94539,Fremont,,,,,FALSE
+3564,94536,Fremont,6. Residential,Level 1 (i.e. air cooled),4/5/2024,4/5/2023,TRUE
+3583,94538,Fremont,1. Life Safety,,,,FALSE
+3772,94539,Fremont,6. Residential,,,,FALSE
+3903,94538,Fremont,5. Normal,Level 2 (i.e. liquid cooled),10/28/2023,10/28/2022,TRUE
+3958,94539,Fremont,6. Residential,Level 2,8/10/2021,8/10/2020,TRUE
+4033,94538,Fremont,,,,,TRUE
+4086,94536,Fremont,1. Life Safety,Level 3 (i.e. diesel),2/11/2022,2/12/2021,TRUE
+4088,94538,Fremont,5. Normal,,,,TRUE
+4156,94538,Fremont,5. Normal,Level 2 (i.e. liquid cooled),9/27/2021,,TRUE
+4210,94536,Fremont,,,,,TRUE
+4249,94538,Fremont,,Level 2 (i.e. liquid cooled),3/27/2024,3/27/2023,TRUE
+4299,94538,Fremont,,Level 3 (i.e. diesel),,,TRUE
+4455,94538,Fremont,,Level 3 (i.e. diesel),,,TRUE
+4497,94538,Fremont,,,,,TRUE
+4609,94536,Fremont,,Level 1 (i.e. air cooled),,,TRUE
+1493,,"Fresno, CA 93703",7. Remote,,,,FALSE
+156,95020,Gilroy,6. Residential,,,,TRUE
+624,95020,Gilroy,,Level 3 (i.e. diesel),4/4/2024,4/4/2023,TRUE
+1267,95020,Gilroy,7. Remote,,2/19/2017,2/19/2016,FALSE
+2180,95020,Gilroy,7. Remote,,10/5/2019,10/5/2018,TRUE
+3375,95020,Gilroy,6. Residential,Level 2 (i.e. liquid cooled),3/2/2024,3/2/2023,TRUE
+3608,95020,Gilroy,,,,,TRUE
+4533,95020,Gilroy,1. Life Safety,Level 2 (i.e. liquid cooled),4/4/2024,4/4/2023,TRUE
+3206,93926,Gonzales,5. Normal,,1/1/2022,,TRUE
+2301,94904,Greenbrae,6. Residential,,2/25/2021,2/25/2020,TRUE
+112,95321,Groveland,1. Life Safety,Level 2 (i.e. liquid cooled),5/5/2022,,TRUE
+3145,95445,Gualala,6. Residential,,,,FALSE
+3867,,Half Moon  Bay,6. Residential,,8/12/2021,8/12/2020,TRUE
+50,94019,Half Moon Bay,1. Life Safety,,12/1/2022,12/1/2021,TRUE
+291,94019,Half Moon Bay,6. Residential,Level 1 (i.e. air cooled),1/15/2022,1/15/2021,TRUE
+494,94016-2201,Half Moon Bay,7. Remote,Level 3 (i.e. diesel),8/25/2023,8/25/2022,TRUE
+1211,94019,Half Moon Bay,7. Remote,,12/13/2019,12/13/2018,FALSE
+1361,94019,Half Moon Bay,,,,,TRUE
+1543,94019,Half Moon Bay,6. Residential,,1/24/2021,1/24/2020,TRUE
+1666,94019,Half Moon Bay,6. Residential,,12/15/2018,12/15/2017,TRUE
+1713,94019,Half Moon Bay,1. Life Safety,Level 2 (i.e. liquid cooled),7/13/2022,7/14/2021,TRUE
+1846,94019,Half Moon Bay,1. Life Safety,,11/30/2022,11/30/2021,TRUE
+1851,94019,Half Moon Bay,1. Life Safety,,3/15/2024,3/15/2023,TRUE
+1853,94019,Half Moon Bay,1. Life Safety,,12/17/2022,12/17/2021,TRUE
+2263,94019,Half Moon Bay,,Level 2 (i.e. liquid cooled),7/13/2024,4/13/2023,TRUE
+2871,94019,Half Moon Bay,6. Residential,,12/3/2019,12/3/2018,FALSE
+2960,94019,Half Moon Bay,,,11/30/2022,11/30/2021,TRUE
+3511,94019,Half Moon Bay,6. Residential,,,,FALSE
+3534,94019,Half Moon Bay,6. Residential,Level 1 (i.e. air cooled),2/16/2024,2/16/2023,TRUE
+3539,94019,Half Moon Bay,6. Residential,,,,TRUE
+3656,94018,Half Moon Bay,6. Residential,,,,FALSE
+3683,94019,Half Moon Bay,6. Residential,,,,TRUE
+3684,94019,Half Moon Bay,6. Residential,,11/5/2020,11/5/2019,TRUE
+3692,94019,Half Moon Bay,6. Residential,Level 1 (i.e. air cooled),9/13/2022,9/13/2021,TRUE
+3719,94019,Half Moon Bay,,,,,FALSE
+3732,94019,Half Moon Bay,,,,,FALSE
+4184,94019,Half Moon Bay,1. Life Safety,Level 2 (i.e. liquid cooled),4/14/2024,4/14/2023,TRUE
+4495,94019,Half Moon Bay,6. Residential,,,,TRUE
+4518,94019,Half Moon Bay,,Level 1 (i.e. air cooled),,1/19/2023,TRUE
+67,94541,Hayward,8. Portable/RV/other,,,,FALSE
+98,94541,Hayward,,,,,TRUE
+158,94545,Hayward,,,,,FALSE
+246,94544,Hayward,,Level 1 (i.e. air cooled),9/8/2022,9/8/2021,TRUE
+367,94545,Hayward,,,1/14/2017,,TRUE
+514,94544,Hayward,,,,,FALSE
+1055,94545,Hayward,4. Bronze,,,,FALSE
+1163,94545-3716,Hayward,,,,,FALSE
+1172,94544,Hayward,,,,,TRUE
+1332,94545,Hayward,,,4/27/2019,4/27/2018,TRUE
+1424,94541,Hayward,,,,,FALSE
+1722,94541,Hayward,1. Life Safety,,12/2/2022,12/2/2021,TRUE
+1723,94541,Hayward,1. Life Safety,,10/21/2020,10/21/2019,FALSE
+1724,94541,Hayward,1. Life Safety,Level 1 (i.e. air cooled),8/1/2023,8/1/2022,TRUE
+1726,94541,Hayward,5. Normal,Level 2 (i.e. liquid cooled),10/28/2023,10/28/2022,TRUE
+1770,94545,Hayward,1. Life Safety,,8/17/2019,8/17/2018,TRUE
+1771,94541,Hayward,1. Life Safety,,6/20/2020,6/20/2019,TRUE
+1773,94541,Hayward,1. Life Safety,,9/1/2021,9/1/2020,TRUE
+1838,94545,Hayward,1. Life Safety,Level 1 (i.e. air cooled),2/17/2023,2/17/2022,TRUE
+1896,94544,Hayward,1. Life Safety,,7/8/2016,,TRUE
+2006,94541,Hayward,,,11/16/2017,,TRUE
+2070,94545,Hayward,6: Residential,,,,FALSE
+2176,,Hayward,5. Normal,,5/14/2018,12/14/2017,FALSE
+2252,94541,Hayward,1. Life Safety,Level 3 (i.e. diesel),4/7/2024,4/7/2023,TRUE
+2310,94541,Hayward,,,,,TRUE
+2425,94542,Hayward,,,,,FALSE
+2918,94541,Hayward,,,,,FALSE
+2928,94545,Hayward,,,,,TRUE
+2931,94545,Hayward,,,,,TRUE
+2945,94545,Hayward,,,,,FALSE
+2988,94542,Hayward,5. Normal,Level 1,,,FALSE
+3090,94544,Hayward,,,,,FALSE
+3102,94541,Hayward,,,,,FALSE
+3117,94545,Hayward,,Level 1,,,FALSE
+3214,94541,Hayward,,,,,FALSE
+3272,94541,Hayward,,,,,TRUE
+3305,94545,Hayward,,,,,FALSE
+3331,94545,Hayward,,,12/1/2020,12/1/2019,FALSE
+3376,94541,Hayward,,,,,FALSE
+3378,94541,Hayward,,,,,TRUE
+3411,94541,Hayward,1. Life Safety,Level 2,,,TRUE
+3510,94541,Hayward,6. Residential,Level 1 (i.e. air cooled),4/25/2023,4/25/2022,TRUE
+3646,94545,Hayward,5. Normal,,,,FALSE
+3669,94541,Hayward,,,,,FALSE
+3673,94541,Hayward,,,,,FALSE
+3690,94545,Hayward,5. Normal,Level 3 (i.e. diesel),,,FALSE
+3711,94542,Hayward,,Level 1 (i.e. air cooled),3/22/2023,3/23/2022,TRUE
+3788,94544,Hayward,5. Normal,,,,FALSE
+3839,94545,Hayward,5. Normal,,,,FALSE
+3881,94545,Hayward,5. Normal,,,,FALSE
+3951,94544,Hayward,,Level 1 (i.e. air cooled),10/14/2021,10/14/2020,TRUE
+3952,94544,Hayward,,,4/21/2023,4/21/2024,TRUE
+3953,94544,Hayward,,Level 2 (i.e. liquid cooled),4/21/2024,,TRUE
+3955,94544,Hayward,5. Normal,Level 3 (i.e. diesel),5/12/2022,5/13/2021,TRUE
+4008,94541,Hayward,,,,,FALSE
+4050,94541,Hayward,,Level 1 (i.e. air cooled),12/16/2023,12/16/2022,TRUE
+4150,94541,Hayward,,,,,TRUE
+4180,94541,Hayward,,,,,TRUE
+4194,94542,Hayward,6. Residential,Level 1 (i.e. air cooled),8/18/2022,8/18/2021,TRUE
+4196,94544,Hayward,,,,,FALSE
+4199,94545,Hayward,5. Normal,Level 2 (i.e. liquid cooled),8/30/2022,8/30/2021,TRUE
+4269,94545,Hayward,,,,,TRUE
+4270,94545,Hayward,,,,,TRUE
+4316,94542,Hayward,5. Normal,Level 2 (i.e. liquid cooled),1/11/2024,1/11/2023,TRUE
+4326,94545,Hayward,5. Normal,Level 3 (i.e. diesel),,,TRUE
+4339,94542,Hayward,6. Residential,Level 1 (i.e. air cooled),12/9/2023,12/9/2022,TRUE
+4348,94544,Hayward,,,,,TRUE
+4355,94545,Hayward,5. Normal,Level 3 (i.e. diesel),5/10/2023,5/10/2022,TRUE
+4363,94544,Hayward,5. Normal,Level 3 (i.e. diesel),3/31/2023,3/31/2022,TRUE
+4368,94544,Hayward,,Level 2 (i.e. liquid cooled),,,TRUE
+4373,94544,Hayward,,Level 2 (i.e. liquid cooled),4/21/2024,4/21/2023,TRUE
+4396,94541,Hayward,1. Life Safety,Level 1 (i.e. air cooled),6/13/2023,6/13/2022,TRUE
+4397,94545,Hayward,5. Normal,,6/13/2023,6/13/2022,TRUE
+4402,94544,Hayward,,,,,TRUE
+4559,94544,Hayward,,,,,TRUE
+4572,94541,Hayward,1. Life Safety,Level 2 (i.e. liquid cooled),10/28/2023,10/28/2022,TRUE
+4600,94545,Hayward,,Level 2 (i.e. liquid cooled),,,TRUE
+4610,94541,Hayward,,,,,TRUE
+2934,95448,Hillsborough,,,,,FALSE
+150,94010,Hillsborough,,,10/22/2015,,FALSE
+375,94010,Hillsborough,5. Normal,Level 1 (i.e. air cooled),5/18/2022,5/18/2021,TRUE
+461,94010,Hillsborough,6. Residential,,11/16/2017,,TRUE
+775,94010,Hillsborough,6. Residential,,12/6/2019,12/6/2018,TRUE
+800,94010,Hillsborough,6. Residential,Level 1 (i.e. air cooled),4/16/2022,4/16/2021,TRUE
+803,94010,Hillsborough,,,,,FALSE
+895,94010-7457,Hillsborough,6. Residential,Level 1 (i.e. air cooled),9/14/2023,9/14/2022,TRUE
+1392,,Hillsborough,,Level 1,1/20/2019,1/20/2018,TRUE
+1456,94010,Hillsborough,6. Residential,Level 1 (i.e. air cooled),7/26/2023,7/26/2022,TRUE
+1517,94010,Hillsborough,6. Residential,Level 1,11/20/2018,,FALSE
+1662,94010,Hillsborough,,,5/3/2017,,FALSE
+1670,94010,Hillsborough,6. Residential,Level 1 (i.e. air cooled),7/26/2023,7/26/2022,TRUE
+3019,,Hillsborough,,,,,FALSE
+3363,94010,Hillsborough,6. Residential,Level 1 (i.e. air cooled),11/1/2021,,TRUE
+3384,94010,Hillsborough,6. Residential,,1/10/2020,1/10/2019,FALSE
+3387,94010,Hillsborough,6. Residential,,12/17/2020,12/17/2019,TRUE
+3388,94010,Hillsborough,6. Residential,Level 1 (i.e. air cooled),12/3/2021,12/3/2020,TRUE
+3401,94010,Hillsborough,6. Residential,Level 2,,,FALSE
+3420,94010,Hillsborough,6. Residential,,,,FALSE
+3815,94010,Hillsborough,6. Residential,Level 1 (i.e. air cooled),4/12/2024,4/12/2023,TRUE
+3921,94010,Hillsborough,6. Residential,Level 1 (i.e. air cooled),8/22/2023,8/22/2022,TRUE
+3949,94010,Hillsborough,,,,,FALSE
+3974,94010,Hillsborough,6. Residential,Level 1 (i.e. air cooled),8/25/2023,8/25/2022,TRUE
+4003,94010,Hillsborough,,,,,FALSE
+4056,94010,Hillsborough,,,,,TRUE
+4089,94010,Hillsborough,,,,,TRUE
+4103,94010,Hillsborough,6. Residential,Level 1 (i.e. air cooled),,,TRUE
+4183,94010,Hillsborough,6. Residential,Level 1 (i.e. air cooled),3/24/2024,3/24/2023,TRUE
+4370,94010,Hillsborough,,Level 3 (i.e. diesel),,,TRUE
+4419,94010,Hillsborough,8. Portable/RV/other,Level 2 (i.e. liquid cooled),9/14/2023,9/14/2022,FALSE
+4611,94010,Hillsborough,6. Residential,Level 1 (i.e. air cooled),,,TRUE
+3277,96819,Honolulu,,,,,TRUE
+4012,,Hunter Liggett,,,,,TRUE
+2458,92606,Irvine,,,,,TRUE
+4569,95642,Jackson,5. Normal,Level 2 (i.e. liquid cooled),3/4/2024,,TRUE
+3843,94707,Kensington,6. Residential,,7/7/2021,,TRUE
+4147,94707,Kensington,6. Residential,Level 1 (i.e. air cooled),7/20/2022,7/20/2021,TRUE
+418,94904,Kentfield,7. Remote,,4/24/2020,4/24/2019,FALSE
+904,94904,Kentfield,,,2/19/2020,2/19/2019,FALSE
+3414,94904,Kentfield,6. Residential,Level 2,,,FALSE
+3078,95548,Klamath,,,,,TRUE
+3147,90631,La Habra,8. Portable/RV/other,,,,FALSE
+126,94020,La Honda,6. Residential,,,,TRUE
+426,94020,La Honda,5. Normal,Level 2 (i.e. liquid cooled),6/28/2022,6/28/2021,TRUE
+1415,,La Honda,6: Residential,,,,FALSE
+1595,94020,La Honda,6. Residential,,2/24/2018,,FALSE
+2042,94020,La Honda,,,,,FALSE
+2064,94020,La Honda,6. Residential,,3/16/2024,3/16/2023,TRUE
+2065,94020,La Honda,6. Residential,,12/15/2018,12/15/2017,TRUE
+3413,94020,La Honda,5. Normal,Level 2,,,FALSE
+3685,95076,La Selva Beach,,,,,TRUE
+3695,95076,La Selva Beach,,,,,FALSE
+194,94549,Lafayette,,,,,TRUE
+1660,94549,Lafayette,6. Residential,Level 1 (i.e. air cooled),8/10/2023,8/10/2022,TRUE
+1991,94549,Lafayette,6. Residential,,10/5/2017,10/5/2016,TRUE
+3417,94549,Lafayette,6. Residential,,,,FALSE
+3671,94549,Lafayette,6. Residential,,,,FALSE
+3979,94549,Lafayette,6. Residential,,8/26/2021,8/26/2020,TRUE
+1074,95453,Lakeport,,,,,TRUE
+3718,95453,Lakeport,,,,,FALSE
+3975,94939,Larkspur,,,,,FALSE
+3986,94939,Larkspur,6. Residential,Level 1 (i.e. air cooled),8/28/2021,,TRUE
+3157,95330,Lathrop,5. Normal,Level 2,,,FALSE
+115,94550,Livermore,6. Residential,,12/7/2017,,FALSE
+200,94550,Livermore,5. Normal,,11/6/2020,11/6/2019,TRUE
+905,94550,Livermore,6. Residential,,1/21/2020,1/21/2019,TRUE
+1523,,Livermore,,Level 1,9/20/2018,9/19/2017,TRUE
+1654,94550,Livermore,6: Residential,,,,FALSE
+2251,94550,Livermore,5. Normal,Level 1 (i.e. air cooled),4/22/2022,4/22/2021,FALSE
+2293,94550,Livermore,5. Normal,Level 1 (i.e. air cooled),10/7/2022,10/7/2021,TRUE
+2294,94550,Livermore,5. Normal,Level 1 (i.e. air cooled),10/7/2022,10/7/2021,TRUE
+2295,94550,Livermore,5. Normal,Level 1 (i.e. air cooled),10/7/2021,10/7/2021,TRUE
+2888,94551,Livermore,6. Residential,,,,FALSE
+3094,94551,Livermore,,,,,FALSE
+3215,94550,Livermore,,,,,FALSE
+3221,94551,Livermore,,,,,FALSE
+3255,94550,Livermore,6. Residential,,10/3/2020,10/3/2019,FALSE
+3327,94550,Livermore,6. Residential,,,,FALSE
+3349,94550,Livermore,5. Normal,,4/1/2021,,FALSE
+3573,94550,Livermore,6. Residential,Level 1 (i.e. air cooled),4/17/2024,4/17/2023,TRUE
+3909,94550,Livermore,6. Residential,Level 1,5/6/2021,5/6/2020,TRUE
+4537,95240,Lodi,5. Normal,,,,TRUE
+289,95650,Loomis,,,,,FALSE
+265,94024,Los Altos,,,,,TRUE
+465,94024,Los Altos,,,11/20/2019,11/20/2018,TRUE
+602,94024,Los Altos,1. Life Safety,,,,FALSE
+1137,94024,Los Altos,5. Normal,Level 2,,10/2/2014,FALSE
+1489,94024,Los Altos,6. Residential,,,,TRUE
+1922,94022,Los Altos,6. Residential,,4/18/2024,4/18/2023,TRUE
+1969,94022-1108,Los Altos,6. Residential,,5/7/2022,5/7/2021,TRUE
+2805,94022,Los Altos,,,,,FALSE
+2884,94024,Los Altos,6. Residential,Level 1 (i.e. air cooled),10/14/2023,10/14/2022,TRUE
+2920,94022,Los Altos,,,,,FALSE
+3140,94022,Los Altos,6. Residential,,,,FALSE
+3204,94022,Los Altos,6. Residential,Level 1 (i.e. air cooled),5/7/2022,5/7/2021,TRUE
+3469,94024,Los Altos,,,,,FALSE
+3513,94022,Los Altos,5. Normal,Level 2,,,FALSE
+3514,94022,Los Altos,,Level 1 (i.e. air cooled),5/7/2022,5/7/2021,TRUE
+3602,94024,Los Altos,,,,,FALSE
+3872,94022,Los Altos,,,,,FALSE
+273,94024,Los Altos Hills,6. Residential,,9/6/2021,4/6/2020,TRUE
+556,,Los Altos Hills,6. Residential,Level 1 (i.e. air cooled),4/4/2023,4/4/2022,TRUE
+558,94024,Los Altos Hills,6. Residential,Level 1 (i.e. air cooled),8/27/2021,8/27/2020,TRUE
+1015,94022,Los Altos Hills,,,,,TRUE
+1431,94022,Los Altos Hills,6. Residential,Level 1 (i.e. air cooled),3/6/2024,3/6/2023,TRUE
+1447,94024,Los Altos Hills,6. Residential,Level 2 (i.e. liquid cooled),6/29/2023,6/29/2022,TRUE
+1531,94022,Los Altos Hills,6. Residential,,8/15/2018,8/15/2017,TRUE
+1568,94022,Los Altos Hills,6. Residential,Level 1 (i.e. air cooled),3/6/2024,3/6/2023,TRUE
+1645,94022,Los Altos Hills,6. Residential,,11/21/2020,11/21/2019,TRUE
+1968,94022,Los Altos Hills,6. Residential,Level 2 (i.e. liquid cooled),4/18/1934,4/18/2023,TRUE
+1971,94022,Los Altos Hills,6. Residential,,2/25/2020,2/20/2019,TRUE
+2204,94022,Los Altos Hills,6. Residential,Level 1,11/26/2019,11/26/2018,FALSE
+2351,94022,Los Altos Hills,6. Residential,,6/1/2018,6/1/2017,TRUE
+2538,94024,Los Altos Hills,,,,,FALSE
+2967,94022,Los Altos Hills,,,,,FALSE
+2994,94022,Los Altos Hills,6. Residential,,,,FALSE
+3356,94022,Los Altos Hills,,,,,FALSE
+3382,94022,Los Altos Hills,6. Residential,Level 1,,,FALSE
+3427,94022,Los Altos Hills,,,,,FALSE
+3431,94022,Los Altos Hills,6. Residential,Level 1 (i.e. air cooled),5/7/2022,5/7/2021,TRUE
+3445,94022,Los Altos Hills,7. Remote,,1/23/2021,1/23/2020,TRUE
+3548,94022,Los Altos Hills,5. Normal,Level 2,7/17/2020,7/17/2019,FALSE
+3691,94022,Los Altos Hills,6. Residential,,4/1/2022,,TRUE
+3739,94022,Los Altos Hills,,,,,FALSE
+3878,94022,Los Altos Hills,6. Residential,,,,FALSE
+4260,94022,Los Altos Hills,6. Residential,Level 2 (i.e. liquid cooled),1/19/2024,1/19/2022,TRUE
+4292,94022,Los Altos Hills,,,,,TRUE
+4546,94022,Los Altos Hills,6. Residential,Level 1 (i.e. air cooled),3/16/2024,3/16/2023,TRUE
+4574,94022,Los Altos Hills,,,,,TRUE
+4583,94022,Los Altos Hills,,,,,TRUE
+104,95032,Los Gatos,5. Normal,Level 1,,,FALSE
+341,95032,Los Gatos,1. Life Safety,,1/30/2020,1/30/2019,TRUE
+488,95033,Los Gatos,6. Residential,Level 1 (i.e. air cooled),4/18/2024,4/18/2023,TRUE
+655,95030,Los Gatos,,,,,FALSE
+780,,Los Gatos,6. Residential,Level 2 (i.e. liquid cooled),1/4/2024,1/4/2023,TRUE
+1207,95032,Los Gatos,6. Residential,Level 1 (i.e. air cooled),2/7/2024,2/7/2023,TRUE
+1357,95033,Los Gatos,6. Residential,,11/15/2017,11/15/2016,TRUE
+1442,95033,Los Gatos,,,,,FALSE
+1485,95032-5145,Los Gatos,,Level 1 (i.e. air cooled),8/25/2023,8/25/2022,TRUE
+1551,95030,Los Gatos,1. Life Safety,,10/27/2017,10/27/2016,TRUE
+1594,95030,Los Gatos,6: Residential,,,,FALSE
+1616,95033,Los Gatos,6. Residential,Level 1 (i.e. air cooled),11/17/2022,11/17/2021,TRUE
+1795,,Los Gatos,1. Life Safety,,3/17/2024,3/17/2023,TRUE
+1796,95032,Los Gatos,1. Life Safety,Level 3,2/15/2018,2/15/2017,TRUE
+2266,95033,Los Gatos,,,,,TRUE
+2344,95030,Los Gatos,7. Remote,Level 2 (i.e. liquid cooled),1/24/2023,1/24/2022,TRUE
+2386,95033,Los Gatos,,,,,FALSE
+2778,,Los Gatos,8. Portable/RV/other,Level 1,8/8/2018,8/8/2017,TRUE
+2820,95033,Los Gatos,,,,,FALSE
+2833,95033,Los Gatos,6. Residential,,2/26/2021,2/26/2020,FALSE
+2853,95033,Los Gatos,6. Residential,,,,FALSE
+2922,95033,Los Gatos,,,1/1/2021,,FALSE
+2935,95033,Los Gatos,,,,,FALSE
+2964,95033,Los Gatos,,,,,FALSE
+3037,95033,Los Gatos,,,,,FALSE
+3098,95033,Los Gatos,6. Residential,Level 1,,1/20/2018,TRUE
+3103,95032,Los Gatos,5. Normal,,9/26/2019,9/26/2018,TRUE
+3149,95033,Los Gatos,,,,,FALSE
+3150,95030,Los Gatos,6. Residential,,7/30/2021,7/30/2020,FALSE
+3203,95030,Los Gatos,,,,,FALSE
+3237,95033,Los Gatos,7. Remote,,,,FALSE
+3447,95030,Los Gatos,,,,,FALSE
+3543,95030,Los Gatos,6. Residential,Level 2,,,FALSE
+3609,95033,Los Gatos,6. Residential,Level 2,,,FALSE
+3618,95033,Los Gatos,,,,,FALSE
+3720,95030,Los Gatos,,,,,FALSE
+3759,95030,Los Gatos,,,,,FALSE
+3777,95033,Los Gatos,7. Remote,,,,FALSE
+3780,95030,Los Gatos,,Level 1 (i.e. air cooled),8/25/2023,8/25/2022,TRUE
+3826,95032,Los Gatos,,Level 1 (i.e. air cooled),8/16/2023,8/16/2022,TRUE
+3866,95032,Los Gatos,,Level 1 (i.e. air cooled),2/14/2023,2/14/2022,FALSE
+3868,95033,Los Gatos,6. Residential,Level 1 (i.e. air cooled),3/22/2024,3/22/2023,TRUE
+3905,95030,Los Gatos,6. Residential,,,,FALSE
+3972,95030,Los Gatos,,,,,TRUE
+4216,95033,Los Gatos,6. Residential,Level 1 (i.e. air cooled),3/7/2024,3/7/2023,TRUE
+4236,95033,Los Gatos,,,,,TRUE
+4293,95032,Los Gatos,,,,,TRUE
+4463,95033,Los Gatos,6. Residential,Level 2 (i.e. liquid cooled),9/8/2023,9/8/2022,TRUE
+4516,950306227,Los Gatos,,,,,TRUE
+4544,95032,Los Gatos,,,,,TRUE
+4547,95030,Los Gatos,6. Residential,Level 1 (i.e. air cooled),2/7/2024,2/7/2023,TRUE
+4551,95033,Los Gatos,6. Residential,Level 1 (i.e. air cooled),1/24/2023,1/24/2023,TRUE
+3704,95457,Lower Lake,,,,,TRUE
+3668,95458,Lucerne,,,,,FALSE
+87,95337,Manteca,,,,,TRUE
+141,95336-4623,Manteca,5. Normal,,6/1/2021,7/13/2015,TRUE
+2156,,Manteca,,Level 2 (i.e. liquid cooled),6/4/2022,6/4/2021,TRUE
+2157,,Manteca,,Level 1 (i.e. air cooled),6/4/2022,6/4/2021,TRUE
+3101,95337,Manteca,6. Residential,,1/28/2021,1/28/2020,TRUE
+3557,95337,Manteca,,,,,FALSE
+1974,94553,Martinez,,,,,TRUE
+2791,27302,Mebane,,,,,FALSE
+219,94025,Menlo Park,,,,,FALSE
+399,94025-5816,Menlo Park,6. Residential,Level 1 (i.e. air cooled),2/23/2022,2/23/2021,TRUE
+730,94025,Menlo Park,1. Life Safety,,11/15/2017,11/15/2016,TRUE
+777,94025,Menlo Park,6. Residential,Level 1 (i.e. air cooled),12/5/2023,12/5/2023,TRUE
+864,94025,Menlo Park,6. Residential,Level 1 (i.e. air cooled),9/15/2023,9/15/2022,TRUE
+1337,94025,Menlo Park,6. Residential,Level 1 (i.e. air cooled),4/12/2024,4/12/2024,TRUE
+1389,94025,Menlo Park,6: Residential,,,,FALSE
+1707,,Menlo Park,5. Normal,,,,TRUE
+1963,94025,Menlo Park,,,,,FALSE
+1965,,Menlo Park,5. Normal,,11/16/2019,11/16/2018,TRUE
+2233,94025,Menlo Park,,,,,TRUE
+2267,94025,Menlo Park,6. Residential,Level 1 (i.e. air cooled),10/26/2022,10/26/2021,TRUE
+2276,94025,Menlo Park,,,,,FALSE
+2849,94025,Menlo Park,6. Residential,Level 1 (i.e. air cooled),12/15/2023,12/15/2022,TRUE
+2886,94025,Menlo Park,,,,,FALSE
+3125,94025,Menlo Park,,,4/1/2021,,TRUE
+3165,94025,Menlo Park,,,,,FALSE
+3232,94025,Menlo Park,,Level 2,11/27/2019,11/27/2018,FALSE
+3242,94025,Menlo Park,5. Normal,,,,TRUE
+3308,94025,Menlo Park,,,,,TRUE
+3320,94025,Menlo Park,5. Normal,Level 2 (i.e. liquid cooled),12/7/2023,12/7/2023,TRUE
+3322,94025,Menlo Park,5. Normal,,12/7/2023,12/7/2022,TRUE
+3364,94025,Menlo Park,5. Normal,Level 3,,,FALSE
+3383,94025,Menlo Park,5. Normal,Level 1 (i.e. air cooled),4/21/2024,4/21/2023,TRUE
+3423,94025,Menlo Park,6. Residential,,,,FALSE
+3483,94025,Menlo Park,,,2/1/2021,,TRUE
+3485,94025,Menlo Park,5. Normal,,2/1/2021,,TRUE
+3527,94025,Menlo Park,1. Life Safety,,,,TRUE
+3550,94025,Menlo Park,,Level 3 (i.e. diesel),12/7/2023,12/7/2022,TRUE
+3584,94025,Menlo Park,6. Residential,Level 1,,,FALSE
+3585,94025,Menlo Park,5. Normal,,,,TRUE
+3592,94025,Menlo Park,5. Normal,Level 3 (i.e. diesel),4/21/2024,4/21/2023,TRUE
+3675,94025,Menlo Park,5. Normal,,,,TRUE
+3776,94025,Menlo Park,6. Residential,,,,FALSE
+3824,94025,Menlo Park,6. Residential,Level 2,,,FALSE
+3853,94025,Menlo Park,,,,,TRUE
+3965,94025,Menlo Park,,,,,FALSE
+3978,94025,Menlo Park,,Level 1 (i.e. air cooled),3/1/2022,,TRUE
+4007,94025,Menlo Park,5. Normal,Level 2 (i.e. liquid cooled),9/30/2022,9/30/2021,TRUE
+4049,94025,Menlo Park,6. Residential,Level 1 (i.e. air cooled),11/30/2021,,TRUE
+4101,94025,Menlo Park,6. Residential,Level 1 (i.e. air cooled),3/3/2024,3/3/2024,TRUE
+4117,94025,Menlo Park,,Level 2 (i.e. liquid cooled),,,TRUE
+4121,94025,Menlo Park,5. Normal,Level 2 (i.e. liquid cooled),3/29/2023,3/29/2022,TRUE
+4178,94025,Menlo Park,,,,,TRUE
+4304,94025,Menlo Park,,Level 1 (i.e. air cooled),12/27/2022,12/27/2021,TRUE
+4372,94025,Menlo Park,,,,,TRUE
+4377,94025,Menlo Park,,,,,TRUE
+4423,94025,Menlo Park,,,,,TRUE
+4549,94025,Menlo Park,,,,,TRUE
+4597,94025,Menlo Park,,,,,TRUE
+4598,94025,Menlo Park,,,,,TRUE
+4612,94025,Menlo Park,,,4/21/2024,4/21/2023,TRUE
+4614,94025,Menlo Park,5. Normal,Level 2 (i.e. liquid cooled),,6/30/2022,TRUE
+1805,94030,Milbrae,1. Life Safety,Level 1,12/28/2019,12/28/2018,TRUE
+428,94901,Mill Valley,7. Remote,Level 1 (i.e. air cooled),11/29/2023,11/29/2022,TRUE
+584,94941,Mill Valley,,,4/26/2019,4/26/2018,TRUE
+610,94941,Mill Valley,6. Residential,Level 1,11/17/2017,11/17/2016,TRUE
+1614,94941,Mill Valley,6. Residential,,11/22/2018,11/22/2017,TRUE
+3386,94941,Mill Valley,,Level 1,,,TRUE
+3594,94941,Mill Valley,6. Residential,Level 1,,,FALSE
+3596,94941,Mill Valley,,,,,FALSE
+3700,94941,Mill Valley,6. Residential,Level 2,,,FALSE
+3706,94941,Mill Valley,,,,,FALSE
+3791,94941,Mill Valley,,,,,FALSE
+4118,94941,Mill Valley,6. Residential,Level 1 (i.e. air cooled),6/29/2022,6/29/2021,TRUE
+4362,94941,Mill Valley,,Level 1 (i.e. air cooled),9/1/2023,9/1/2022,TRUE
+2063,94030,Millbrae,5. Normal,Level 2,3/15/2019,3/15/2018,TRUE
+2815,94030,Millbrae,,,,,FALSE
+3095,94030,Millbrae,,,,,FALSE
+4022,94030,Millbrae,5. Normal,Level 3 (i.e. diesel),10/1/2021,,TRUE
+4027,94030,Millbrae,1. Life Safety,Level 1 (i.e. air cooled),1/25/2024,1/25/2023,TRUE
+4575,94030,Millbrae,1. Life Safety,Level 3 (i.e. diesel),,,TRUE
+1448,95035,Milpitas,5. Normal,Level 2 (i.e. liquid cooled),8/3/2023,8/3/2022,TRUE
+1490,95035,Milpitas,5. Normal,,6/28/2020,6/28/2019,TRUE
+1506,,Milpitas,,Level 2 (i.e. liquid cooled),7/27/2023,7/27/2022,TRUE
+1634,95035,Milpitas,,,,,FALSE
+2076,95035,Milpitas,5. Normal,,6/30/2017,,TRUE
+3224,95035,Milpitas,,,,,FALSE
+3330,95035,Milpitas,5. Normal,,8/31/2021,8/31/2020,TRUE
+3441,95035,Milpitas,5. Normal,Level 2,12/15/2019,11/8/2019,TRUE
+3474,95035,Milpitas,5. Normal,,,,TRUE
+3961,95035,Milpitas,,,,,TRUE
+4207,95035,Milpitas,,Level 2 (i.e. liquid cooled),12/23/2022,12/23/2021,TRUE
+1674,94037,Montara,6. Residential,,1/9/2024,1/9/2023,TRUE
+1844,94037,Montara,,,1/11/2023,1/11/2022,TRUE
+1854,94037,Montara,1. Life Safety,,3/21/2024,3/21/2023,TRUE
+2966,94037,Montara,,,,,TRUE
+3077,94037,Montara,,,,,TRUE
+3968,94037,Montara,6. Residential,,,,TRUE
+2993,,Monte Sereno,,,,,FALSE
+3599,95030,Monte Sereno,,,,,FALSE
+3808,95030,Monte Sereno,6. Residential,,,,FALSE
+3842,95030,Monte Sereno,,,,,FALSE
+4066,95030,Monte Sereno,,Level 1 (i.e. air cooled),12/14/2023,12/14/2022,TRUE
+4367,94556,Moraga,,Level 1 (i.e. air cooled),,,TRUE
+1891,,Morgan Hill,1. Life Safety,Level 2 (i.e. liquid cooled),12/16/2016,12/16/2015,TRUE
+1892,,Morgan Hill,5. Normal,,12/16/2016,12/16/2015,TRUE
+3645,95037,Morgan Hill,6. Residential,Level 1 (i.e. air cooled),4/4/2024,4/4/2023,TRUE
+3856,95037,Morgan Hill,6. Residential,Level 1 (i.e. air cooled),12/15/2023,12/15/2022,TRUE
+3904,95037,Morgan Hill,1. Life Safety,,,,TRUE
+3960,95037,Morgan Hill,,,,,TRUE
+4013,95037,Morgan Hill,,Level 2,10/13/2021,10/13/2020,TRUE
+4116,95037,Morgan Hill,5. Normal,Level 2 (i.e. liquid cooled),4/19/2022,4/19/2021,TRUE
+4281,95037,Morgan Hill,,,,,TRUE
+4398,95037,Morgan Hill,,,,,TRUE
+4618,95037,Morgan Hill,5. Normal,,,,TRUE
+1848,94038,Moss Beach,,Level 3 (i.e. diesel),4/14/2024,4/14/2023,TRUE
+1849,94038,Moss Beach,,,4/11/2024,4/11/2024,TRUE
+1852,94038,Moss Beach,1. Life Safety,,4/12/2024,4/12/2023,TRUE
+1864,94038,Moss Beach,6. Residential,Level 1 (i.e. air cooled),4/15/2022,4/15/2021,TRUE
+2265,94038,Moss Beach,1. Life Safety,Level 1 (i.e. air cooled),7/13/2024,7/13/2023,TRUE
+4478,95140,Mount Hamilton,,,,,TRUE
+412,94040,Mountain View,5. Normal,,12/16/2022,12/16/2021,TRUE
+1309,94043,Mountain View,5. Normal,,1/25/2023,1/25/2022,FALSE
+1757,94040,Mountain View,1. Life Safety,Level 2 (i.e. liquid cooled),2/11/2024,2/11/2023,TRUE
+1954,94041,Mountain View,5. Normal,Level 3 (i.e. diesel),9/1/2022,9/1/2021,FALSE
+2841,94043,Mountain View,,,1/1/2021,,TRUE
+2844,94043,Mountain View,5. Normal,Level 3 (i.e. diesel),6/30/2023,6/30/2022,TRUE
+2974,94043,Mountain View,5. Normal,,,,FALSE
+2983,94043,Mountain View,,,,,TRUE
+3274,94043,Mountain View,5. Normal,Level 2,,,FALSE
+3875,94043,Mountain View,5. Normal,Level 3 (i.e. diesel),7/27/2022,7/27/2021,TRUE
+4188,94043,Mountain View,5. Normal,Level 2 (i.e. liquid cooled),,,TRUE
+4189,94043,Mountain View,5. Normal,Level 2 (i.e. liquid cooled),,,TRUE
+4334,94041,Mountain View,5. Normal,Level 2 (i.e. liquid cooled),4/21/2023,4/21/2022,TRUE
+4371,94043,Mountain View,,,,,TRUE
+4437,94043,Mountain View,5. Normal,,,,TRUE
+4446,94043,Mountain View,,,,,TRUE
+4555,94043,Mountain View,,,,,TRUE
+4602,94041,Mountain View,5. Normal,Level 3 (i.e. diesel),9/1/2022,,TRUE
+2910,94559,Napa,7. Remote,Level 1 (i.e. air cooled),4/25/2023,4/25/2022,TRUE
+2930,94558,Napa,7. Remote,,,,FALSE
+2981,94558,Napa,6. Residential,,,,FALSE
+2982,94558,Napa,6. Residential,Level 1,,,FALSE
+3267,94558,Napa,1. Life Safety,,,,FALSE
+3625,94558,Napa,7. Remote,Level 1,,,FALSE
+4185,94559,Napa,,,,,TRUE
+2,94560,Newark,1. Life Safety,,12/26/2020,12/26/2019,TRUE
+4,94560,Newark,5. Normal,Level 2 (i.e. liquid cooled),8/12/2022,8/12/2021,TRUE
+294,94560,Newark,,,,,TRUE
+1457,94560,Newark,6. Residential,Level 1 (i.e. air cooled),12/28/2023,12/28/2022,TRUE
+1603,94560,Newark,,,,,FALSE
+2770,94560,Newark,,,2/1/2021,,TRUE
+4376,94560,Newark,1. Life Safety,,,,TRUE
+2763,30071,Norcross,,,,,FALSE
+1586,94949,Novato,6. Residential,,,,FALSE
+3257,94947,Novato,,Level 2 (i.e. liquid cooled),8/12/2023,8/12/2022,FALSE
+3,94611,Oakland,,,1/23/2021,1/23/2020,TRUE
+6,94607,Oakland,5. Normal,Level 2 (i.e. liquid cooled),3/8/2024,3/8/2023,TRUE
+8,94608,Oakland,5. Normal,,7/9/2021,7/9/2020,TRUE
+10,94612,Oakland,1. Life Safety,Level 2 (i.e. liquid cooled),8/3/2023,8/3/2022,TRUE
+12,94612,Oakland,1. Life Safety,Level 1 (i.e. air cooled),3/7/2023,3/7/2022,TRUE
+16,94611,Oakland,1. Life Safety,Level 2 (i.e. liquid cooled),1/6/2022,1/6/2021,TRUE
+17,94611,Oakland,1. Life Safety,Level 2 (i.e. liquid cooled),9/8/2022,9/8/2021,TRUE
+49,94618,Oakland,5. Normal,Level 2,2/17/2017,,TRUE
+127,94621,Oakland,,,,,FALSE
+385,94612,Oakland,,Level 1 (i.e. air cooled),4/12/2023,4/12/2022,TRUE
+406,94603,Oakland,,,6/20/2021,1/2/2019,TRUE
+796,94611,Oakland,,,,,TRUE
+1111,94619,Oakland,6. Residential,,6/15/2021,6/15/2020,TRUE
+1146,94611,Oakland,6. Residential,Level 1 (i.e. air cooled),8/10/2023,8/10/2022,TRUE
+1390,94603,Oakland,5. Normal,Level 3 (i.e. diesel),8/29/2023,8/29/2022,TRUE
+1500,94601,Oakland,5. Normal,Level 1 (i.e. air cooled),4/17/2024,4/17/2023,TRUE
+1529,,Oakland,,Level 3,10/6/2019,10/6/2018,TRUE
+1822,94609,Oakland,1. Life Safety,Level 1 (i.e. air cooled),12/16/2023,12/16/2022,TRUE
+1842,94618,Oakland,5. Normal,Level 1,3/29/2015,,TRUE
+1874,94611,Oakland,6. Residential,,,,FALSE
+1894,94611,Oakland,6. Residential,Level 1 (i.e. air cooled),1/26/2024,1/26/2023,TRUE
+2074,94610,Oakland,,,,,TRUE
+2185,,Oakland,5. Normal,,6/22/2017,6/22/2016,TRUE
+2584,94618,Oakland,6. Residential,Level 1 (i.e. air cooled),2/3/2024,2/3/2023,TRUE
+3000,94607,Oakland,,,,,FALSE
+3079,94611,Oakland,6. Residential,Level 1,,,FALSE
+3088,94603,Oakland,,,,,FALSE
+3113,94607,Oakland,5. Normal,,3/23/2024,3/23/2023,TRUE
+3310,94612,Oakland,1. Life Safety,Level 2,12/15/2019,12/15/2018,FALSE
+3312,94607,Oakland,5. Normal,Level 2 (i.e. liquid cooled),5/21/2022,5/21/2021,TRUE
+3326,94621,Oakland,7. Remote,Level 3,11/30/2019,11/30/2018,TRUE
+3379,94619,Oakland,6. Residential,,,9/30/2019,TRUE
+3399,94619,Oakland,6. Residential,Level 1 (i.e. air cooled),2/15/2023,2/15/2022,TRUE
+3457,94601,Oakland,5. Normal,,,,FALSE
+3481,94607,Oakland,5. Normal,,1/1/2021,,TRUE
+3482,94607,Oakland,5. Normal,,5/1/2021,,TRUE
+3533,94603,Oakland,8. Portable/RV/other,,,,TRUE
+3535,94621,Oakland,5. Normal,Level 2 (i.e. liquid cooled),1/20/2022,1/20/2021,TRUE
+3544,94609,Oakland,1. Life Safety,Level 3 (i.e. diesel),2/3/2023,2/3/2022,TRUE
+3569,94611,Oakland,,,,,FALSE
+3620,94618,Oakland,6. Residential,,6/1/2021,,TRUE
+3647,94612,Oakland,,,,,TRUE
+3655,94607,Oakland,,,,,FALSE
+3663,94612,Oakland,,,,,TRUE
+3676,94611,Oakland,,,,,FALSE
+3701,94611,Oakland,,,,,FALSE
+3703,94618,Oakland,,,,,FALSE
+3714,94612,Oakland,5. Normal,Level 2,,,FALSE
+3752,94619,Oakland,6. Residential,Level 2,,,FALSE
+3769,94605,Oakland,,,,,FALSE
+3844,94605,Oakland,6. Residential,,,,TRUE
+3862,94612,Oakland,5. Normal,Level 2,,,FALSE
+3873,94601,Oakland,5. Normal,Level 2,,,FALSE
+3880,94619,Oakland,,,,,FALSE
+3908,94611,Oakland,6. Residential,Level 1 (i.e. air cooled),4/2/2022,4/2/2021,TRUE
+3916,94603,Oakland,,,,,FALSE
+3919,94619,Oakland,,,,,FALSE
+3922,94611,Oakland,6. Residential,Level 1 (i.e. air cooled),9/15/2023,9/15/2022,TRUE
+4026,94611,Oakland,6. Residential,Level 1 (i.e. air cooled),3/1/2022,,TRUE
+4051,94601,Oakland,,,,,TRUE
+4081,94611,Oakland,8. Portable/RV/other,,,,FALSE
+4141,94621,Oakland,,,,,TRUE
+4152,94606,Oakland,,,,,TRUE
+4177,94611,Oakland,,,,4/1/2020,FALSE
+4262,94621,Oakland,,,,,TRUE
+4263,94606,Oakland,,,,,TRUE
+4297,94601,Oakland,,,,11/22/2021,TRUE
+4351,94611,Oakland,6. Residential,Level 1 (i.e. air cooled),4/24/2024,4/24/2023,TRUE
+4357,94605,Oakland,,Level 1 (i.e. air cooled),,,TRUE
+4447,94607,Oakland,,,,,TRUE
+4465,94603,Oakland,,Level 1 (i.e. air cooled),9/9/2023,,TRUE
+4498,94612,Oakland,,,,,TRUE
+3134,95465,Occidental,,,,,FALSE
+3161,95465,Occidental,7. Remote,,,,FALSE
+457,94563,Orinda,,,,,TRUE
+567,94563,Orinda,7. Remote,Level 1,1/12/2017,,TRUE
+2576,94563,Orinda,,Level 1 (i.e. air cooled),2/8/2024,2/8/2023,TRUE
+3523,94563,Orinda,6. Residential,,,,TRUE
+3559,94563,Orinda,6. Residential,Level 1 (i.e. air cooled),6/9/2023,5/5/2021,TRUE
+3765,94563,Orinda,6. Residential,,,,FALSE
+3781,94563,Orinda,6. Residential,Level 1 (i.e. air cooled),5/26/2022,5/26/2021,FALSE
+3860,94563,Orinda,,,,,FALSE
+4319,94563,Orinda,6. Residential,Level 1 (i.e. air cooled),4/17/2024,4/17/2023,TRUE
+588,94044,Pacifica,,Level 1,1/18/2020,1/18/2019,FALSE
+944,94044,Pacifica,7. Remote,Level 1 (i.e. air cooled),,,TRUE
+1775,94044,Pacifica,1. Life Safety,Level 1 (i.e. air cooled),4/15/2022,4/15/2021,TRUE
+1776,,Pacifica,1. Life Safety,Level 3 (i.e. diesel),5/24/2023,5/24/2022,TRUE
+2913,94044,Pacifica,,,,,FALSE
+3086,94044,Pacifica,,,,,FALSE
+3498,94044,Pacifica,1. Life Safety,,,,TRUE
+3992,94044,Pacifica,6. Residential,,,,TRUE
+4593,94044,Pacifica,5. Normal,Level 1 (i.e. air cooled),4/5/2024,4/5/2023,TRUE
+4595,78572,Palmview,,,,,TRUE
+435,94301,Palo Alto,6. Residential,Level 1 (i.e. air cooled),5/9/2023,5/9/2022,TRUE
+438,94301,Palo Alto,6. Residential,Level 3,9/22/2018,9/22/2017,TRUE
+658,94306,Palo Alto,6. Residential,Level 2 (i.e. liquid cooled),2/23/2024,2/23/2023,TRUE
+1932,94301,Palo Alto,6. Residential,Level 1 (i.e. air cooled),3/16/2024,3/16/2023,TRUE
+2018,,Palo Alto,6. Residential,Level 1 (i.e. air cooled),1/25/2024,1/25/2023,TRUE
+2339,94304,Palo Alto,,,1/13/2021,1/13/2020,FALSE
+2908,94306,Palo Alto,,,,,FALSE
+3244,94301,Palo Alto,,,,,FALSE
+3289,94306,Palo Alto,6. Residential,Level 1,,,TRUE
+3334,94306,Palo Alto,6. Residential,,,,FALSE
+3415,94306,Palo Alto,5. Normal,,2/19/2021,2/20/2020,TRUE
+3717,94301,Palo Alto,,,,,TRUE
+3927,94303,Palo Alto,5. Normal,,1/1/2021,,TRUE
+4035,94303,Palo Alto,5. Normal,,5/9/2023,5/9/2022,TRUE
+4038,94301,Palo Alto,,,,,TRUE
+4062,94304,Palo Alto,,Level 3 (i.e. diesel),1/1/2021,,TRUE
+4063,94301,Palo Alto,6. Residential,Level 1 (i.e. air cooled),7/22/2020,7/22/2019,FALSE
+4129,94301,Palo Alto,,Level 1 (i.e. air cooled),4/20/2022,4/20/2021,TRUE
+4217,94301,Palo Alto,6. Residential,Level 2 (i.e. liquid cooled),12/1/2022,12/1/2021,TRUE
+4613,94303,Palo Alto,,,,,TRUE
+3913,1605,Pasig,8. Portable/RV/other,,,,FALSE
+1736,93953,Pebble Beach,,,,,TRUE
+2709,94060,Pescadero,,,,,FALSE
+2893,94060,Pescadero,6. Residential,Level 2,2/7/2019,2/7/2018,FALSE
+3126,94060,Pescadero,6. Residential,Level 1 (i.e. air cooled),3/24/2024,3/24/2023,TRUE
+1641,94952,Petaluma,,,,,TRUE
+4432,94954,Petaluma,5. Normal,Level 2 (i.e. liquid cooled),,2/1/2021,TRUE
+11,94611,Piedmont,5. Normal,Level 1 (i.e. air cooled),4/17/2024,4/17/2023,TRUE
+3545,94611,Piedmont,6. Residential,,,,FALSE
+3562,94611,Piedmont,6. Residential,Level 1 (i.e. air cooled),10/28/2023,10/28/2022,TRUE
+3677,94611,Piedmont,,,,,FALSE
+3859,94611,Piedmont,,,,,FALSE
+179,94523,Pleasant Hill,1. Life Safety,Level 2 (i.e. liquid cooled),1/21/2023,1/21/2022,TRUE
+736,94588,Pleasanton,,,,,FALSE
+740,94566,Pleasanton,6. Residential,,1/17/2023,1/17/2022,TRUE
+916,94588,Pleasanton,6. Residential,Level 1 (i.e. air cooled),2/2/2024,2/2/2023,TRUE
+1150,94566,Pleasanton,,,,,TRUE
+1450,94566,Pleasanton,,Level 1 (i.e. air cooled),6/13/2023,6/13/2022,TRUE
+1745,94566,Pleasanton,5. Normal,Level 2 (i.e. liquid cooled),12/28/2023,12/28/2022,TRUE
+2821,94566,Pleasanton,6. Residential,,8/24/2019,8/24/2018,TRUE
+2830,94566,Pleasanton,,,,,FALSE
+2885,94566,Pleasanton,,,,,FALSE
+3009,94566,Pleasanton,,,,,FALSE
+3011,94566,Pleasanton,,,,,FALSE
+3254,94588,Pleasanton,,,,,FALSE
+3303,94588,Pleasanton,5. Normal,,10/14/2021,10/14/2020,TRUE
+3361,94588,Pleasanton,5. Normal,,11/9/2019,11/9/2018,TRUE
+3770,94566,Pleasanton,,,,,FALSE
+3937,94588,Pleasanton,6. Residential,,1/27/2023,1/27/2022,TRUE
+4092,94588,Pleasanton,5. Normal,Level 2 (i.e. liquid cooled),,,TRUE
+4161,94588,Pleasanton,5. Normal,Level 3 (i.e. diesel),,,TRUE
+4274,94588,Pleasanton,5. Normal,Level 2 (i.e. liquid cooled),12/14/2022,12/14/2021,TRUE
+4473,94566,Pleasanton,6. Residential,,,,TRUE
+4504,,Pleasanton,,,,,TRUE
+1980,94956,Point Reyes Station,,,2/28/2020,2/28/2019,TRUE
+230,94028,Portola Valley,5. Normal,,11/20/2019,11/20/2018,TRUE
+288,94028,Portola Valley,,,,,FALSE
+717,94028,Portola Valley,6. Residential,,3/22/2024,3/22/2023,TRUE
+911,94028,Portola Valley,6. Residential,Level 2 (i.e. liquid cooled),1/1/1999,10/10/2022,FALSE
+1149,94028,Portola Valley,6. Residential,,1/25/2024,1/25/2023,TRUE
+1177,94028,Portola Valley,6. Residential,,,,TRUE
+1232,94028,Portola Valley,6. Residential,,1/26/2018,1/26/2017,TRUE
+1376,94028,Portola Valley,,,5/26/2021,5/26/2020,TRUE
+1582,94028,Portola Valley,,,1/11/2017,,TRUE
+1739,94028,Portola Valley,6. Residential,,,,FALSE
+1786,94028,Portola Valley,,,,,FALSE
+1787,94028,Portola Valley,6. Residential,Level 2 (i.e. liquid cooled),3/30/2021,3/30/2021,TRUE
+1791,,Portola Valley,6. Residential,Level 2,5/2/2018,,TRUE
+1893,94028,Portola Valley,6. Residential,Level 1,7/9/2019,7/9/2018,FALSE
+2302,94028,Portola Valley,6. Residential,Level 1 (i.e. air cooled),9/14/2023,9/14/2022,TRUE
+3311,94028,Portola Valley,,Level 1,,,TRUE
+3377,94028,Portola Valley,6. Residential,,7/20/2021,7/20/2020,TRUE
+3408,94028,Portola Valley,6. Residential,,1/15/2020,1/15/2019,TRUE
+3478,94028,Portola Valley,6. Residential,,1/1/2021,,TRUE
+3680,94028,Portola Valley,6. Residential,Level 2,,,FALSE
+3682,94028,Portola Valley,6. Residential,Level 2,,,FALSE
+3702,94028,Portola Valley,,,,,FALSE
+3716,94028,Portola Valley,6. Residential,Level 1,,,FALSE
+3725,94028,Portola Valley,,,,,FALSE
+3850,94028,Portola Valley,6. Residential,,,,FALSE
+3964,94028,Portola Valley,,,,,FALSE
+3987,94028,Portola Valley,,,,,FALSE
+4064,94028,Portola Valley,6. Residential,Level 1 (i.e. air cooled),10/3/2023,10/3/2022,TRUE
+4107,94028,Portola Valley,,Level 1 (i.e. air cooled),,,TRUE
+4181,94028,Portola Valley,6. Residential,Level 1 (i.e. air cooled),7/20/2023,7/20/2022,TRUE
+3213,83854,Post Falls,5. Normal,,,,FALSE
+446,94804,Pt. Richmond,,Level 2 (i.e. liquid cooled),1/12/2022,1/12/2021,TRUE
+135,94063,Redwood City,,,,,TRUE
+186,94063,Redwood City,,,,,TRUE
+583,,Redwood City,6. Residential,,5/19/2016,,TRUE
+648,94062,Redwood City,6. Residential,Level 1 (i.e. air cooled),12/3/2022,12/3/2021,TRUE
+1112,94062,Redwood City,,,,,FALSE
+2234,94065,Redwood City,,,4/1/2022,,TRUE
+2287,94062,Redwood City,6. Residential,,6/5/2020,6/5/2019,TRUE
+3111,94062,Redwood City,6. Residential,Level 1,,,TRUE
+3231,94061,Redwood City,1. Life Safety,,12/16/2022,12/16/2021,TRUE
+3241,94063,Redwood City,,Level 1,,,FALSE
+4020,94062,Redwood City,,,,,FALSE
+4028,94065,Redwood City,,,,,TRUE
+4044,94065,Redwood City,5. Normal,Level 1 (i.e. air cooled),8/25/2023,8/25/2022,TRUE
+4045,94065,Redwood City,5. Normal,Level 1 (i.e. air cooled),8/25/2023,8/25/2022,TRUE
+4125,94063,Redwood City,,,,,TRUE
+4142,94062,Redwood City,,Level 1 (i.e. air cooled),3/15/2023,3/15/2022,TRUE
+4154,94065,Redwood City,5. Normal,Level 3 (i.e. diesel),6/15/2023,6/15/2022,TRUE
+4219,94063,Redwood City,4. Bronze,Level 1 (i.e. air cooled),,,TRUE
+4259,94062,Redwood City,6. Residential,Level 2 (i.e. liquid cooled),,,TRUE
+4268,94065,Redwood City,,,,,TRUE
+4332,94065,Redwood City,,,,,TRUE
+4352,94065,Redwood City,,,,,TRUE
+4364,94063,Redwood City,4. Bronze,Level 1 (i.e. air cooled),9/7/2023,9/7/2022,TRUE
+4365,94063,Redwood City,4. Bronze,Level 1 (i.e. air cooled),9/7/2023,9/7/2022,TRUE
+4386,94063,Redwood City,1. Life Safety,Level 3 (i.e. diesel),,,TRUE
+429,94065,Redwood Shores,7. Remote,Level 2 (i.e. liquid cooled),12/9/2023,12/9/2022,TRUE
+1477,99166,Republic,,,,,FALSE
+814,94804,Richmond,5. Normal,,4/12/2023,4/12/2022,TRUE
+885,94804,Richmond,,,,,FALSE
+2816,94801,Richmond,,,,,FALSE
+2848,,Richmond,,,,,FALSE
+2892,,Richmond,,,,,FALSE
+2924,94804,Richmond,,,,,FALSE
+4214,94806,Richmond,7. Remote,,,,TRUE
+4306,94801,Richmond,,,,,TRUE
+4308,94801,Richmond,5. Normal,Level 3 (i.e. diesel),,10/26/2019,TRUE
+4309,94801,Richmond,5. Normal,Level 3 (i.e. diesel),,,TRUE
+3428,94957,Ross,6. Residential,,,,TRUE
+4036,94904,Ross,7. Remote,Level 2 (i.e. liquid cooled),7/1/2021,12/2/2020,TRUE
+1453,94558,Rutherford,7. Remote,Level 2,6/8/2018,6/8/2017,TRUE
+3705,94573,Rutherford,,,,,TRUE
+327,,Sacramento,1. Life Safety,,,,TRUE
+4065,95823,Sacramento,,,,,TRUE
+1498,94574,Saint Helena,6. Residential,Level 1,2/19/2020,2/19/2019,TRUE
+2052,94574,Saint Helena,6. Residential,Level 2,,,TRUE
+165,93907,Salinas,,,,,FALSE
+3664,93908,Salinas,,,,,FALSE
+293,94960,San Anselmo,6. Residential,Level 1,,2/16/2018,TRUE
+1570,94960,San Anselmo,7. Remote,Level 1,,,FALSE
+1970,94960,San Anselmo,7. Remote,Level 3,2/1/2018,11/9/2016,FALSE
+3796,94960,San Anselmo,5. Normal,Level 2,,,FALSE
+427,94066,San Bruno,5. Normal,,,,TRUE
+1000,94066,San Bruno,5. Normal,Level 2 (i.e. liquid cooled),8/22/2023,8/22/2022,TRUE
+1069,94066,San Bruno,,,3/12/2019,3/12/2018,FALSE
+1752,94066,San Bruno,6. Residential,Level 1 (i.e. air cooled),1/25/2024,1/25/2023,TRUE
+1827,94066,San Bruno,1. Life Safety,Level 2 (i.e. liquid cooled),12/9/2023,12/9/2022,TRUE
+2873,94066,San Bruno,,,,,FALSE
+4018,94066,San Bruno,,,,,TRUE
+4149,94066,San Bruno,5. Normal,Level 2 (i.e. liquid cooled),,,TRUE
+173,94070,San Carlos,,,,,FALSE
+698,94070,San Carlos,6. Residential,Level 1 (i.e. air cooled),3/22/2024,3/22/2023,TRUE
+1418,94070,San Carlos,6. Residential,,6/2/2017,,TRUE
+1664,94570,San Carlos,,,,,TRUE
+2237,94070,San Carlos,,Level 2 (i.e. liquid cooled),2/10/2024,2/10/2023,TRUE
+3470,94070,San Carlos,,,,,FALSE
+3619,94070,San Carlos,6. Residential,,1/28/2023,1/28/2022,FALSE
+3817,94070,San Carlos,1. Life Safety,,12/10/2020,12/10/2019,TRUE
+3942,94070,San Carlos,,,,,FALSE
+4166,94070,San Carlos,6. Residential,Level 1 (i.e. air cooled),7/22/2023,7/22/2022,TRUE
+4283,94070,San Carlos,,Level 1 (i.e. air cooled),,,TRUE
+24,94111,San Francisco,,,,,TRUE
+32,94103,San Francisco,,,,,TRUE
+147,,San Francisco,,,3/1/2021,,TRUE
+153,94107,San Francisco,8. Portable/RV/other,,,,FALSE
+154,94132,San Francisco,5. Normal,Level 1 (i.e. air cooled),,,TRUE
+192,94104,San Francisco,1. Life Safety,Level 3 (i.e. diesel),1/29/2023,1/29/2022,TRUE
+204,94122,San Francisco,,,,,TRUE
+307,,San Francisco,6. Residential,Level 1 (i.e. air cooled),3/23/2024,3/23/2023,TRUE
+314,94124,San Francisco,5. Normal,Level 1,8/9/2017,8/9/2016,TRUE
+343,94116,San Francisco,5. Normal,Level 1 (i.e. air cooled),1/18/2023,1/18/2022,TRUE
+423,94111,San Francisco,5. Normal,Level 3 (i.e. diesel),9/27/2023,9/27/2022,TRUE
+432,94102,San Francisco,,,,,TRUE
+444,94127,San Francisco,6. Residential,,12/19/2018,12/19/2017,TRUE
+449,94133,San Francisco,,,,,TRUE
+512,94131,San Francisco,,,8/10/2017,8/10/2016,TRUE
+538,94103,San Francisco,,,,,FALSE
+603,94117,San Francisco,,,10/7/2021,10/7/2020,FALSE
+769,94103,San Francisco,5. Normal,Level 1 (i.e. air cooled),8/12/2023,8/12/2022,TRUE
+961,94108,San Francisco,1. Life Safety,,3/20/2020,3/20/2019,TRUE
+973,94103,San Francisco,,,11/30/2016,,TRUE
+1002,,San Francisco,5. Normal,,5/2/2015,5/2/2014,TRUE
+1191,94131,San Francisco,,,,,FALSE
+1263,94103,San Francisco,,,,,TRUE
+1386,94124,San Francisco,,,,,FALSE
+1438,94109,San Francisco,,,,,FALSE
+1465,94107,San Francisco,,,,,FALSE
+1471,94115,San Francisco,1. Life Safety,,11/18/2020,11/18/2019,TRUE
+1487,94127,San Francisco,5. Normal,,,10/9/2018,TRUE
+1515,94110,San Francisco,,,8/9/2017,,TRUE
+1613,94105,San Francisco,5. Normal,,,,FALSE
+1620,94124,San Francisco,5. Normal,Level 1 (i.e. air cooled),3/8/2023,3/8/2023,TRUE
+1650,94115,San Francisco,6. Residential,Level 1,4/24/2018,4/24/2017,TRUE
+1657,94108,San Francisco,5. Normal,,4/28/2017,,TRUE
+1765,94111,San Francisco,,,2/1/2021,,TRUE
+1766,94111,San Francisco,1. Life Safety,,,,FALSE
+1768,,San Francisco,,,,,FALSE
+1783,,San Francisco,,,9/15/2016,,TRUE
+1785,94105,San Francisco,,Level 3 (i.e. diesel),9/6/2023,9/6/2022,TRUE
+1829,94112,San Francisco,1. Life Safety,Level 1 (i.e. air cooled),9/12/2023,9/12/2022,TRUE
+2038,94102,San Francisco,1. Life Safety,Level 3,,10/25/2015,FALSE
+2166,94108,San Francisco,,,,,FALSE
+2178,94132-1027,San Francisco,5. Normal,Level 1 (i.e. air cooled),3/9/2024,3/9/2023,TRUE
+2194,,San Francisco,,,4/22/2023,4/22/2022,TRUE
+2345,94122,San Francisco,,,,,FALSE
+2543,,san francisco,,,,,FALSE
+2762,94109,San Francisco,,,,,FALSE
+2813,94112,San Francisco,,,,,TRUE
+2906,94114,San Francisco,,,,,FALSE
+2912,94108,San Francisco,,,,,FALSE
+2946,94109,San Francisco,,,2/1/2021,,TRUE
+3071,94103,San Francisco,,,,,FALSE
+3124,94105,San Francisco,,Level 2,,,FALSE
+3133,94105,San Francisco,1. Life Safety,Level 2 (i.e. liquid cooled),10/29/2022,10/29/2021,TRUE
+3154,94102,San Francisco,,,,,TRUE
+3155,94121,San Francisco,6. Residential,,,,TRUE
+3163,94103,San Francisco,1. Life Safety,,1/28/2021,1/28/2020,TRUE
+3218,94128,San Francisco,,,,,FALSE
+3230,94102,San Francisco,,,,,TRUE
+3266,94158,San Francisco,,,,,TRUE
+3281,94116,San Francisco,,,,,FALSE
+3288,94109,San Francisco,5. Normal,,2/17/2024,2/17/2023,TRUE
+3299,94158,San Francisco,,,,,FALSE
+3307,94102,San Francisco,1. Life Safety,,3/12/2020,3/12/2019,FALSE
+3367,94107,San Francisco,,,,,FALSE
+3422,94102,San Francisco,5. Normal,,9/17/2020,9/17/2019,TRUE
+3459,94132,San Francisco,5. Normal,,,,FALSE
+3468,94118,San Francisco,6. Residential,,3/26/2024,3/16/2023,TRUE
+3476,94111,San Francisco,1. Life Safety,Level 3 (i.e. diesel),12/4/2022,12/4/2021,TRUE
+3490,94105,San Francisco,1. Life Safety,,5/11/2022,5/11/2021,TRUE
+3495,94111,San Francisco,,,,,TRUE
+3496,94105,San Francisco,1. Life Safety,Level 3 (i.e. diesel),4/18/2024,4/18/2023,TRUE
+3497,94111,San Francisco,,,4/18/2024,4/18/2023,TRUE
+3502,94111,San Francisco,1. Life Safety,Level 3 (i.e. diesel),4/13/2023,4/13/2022,TRUE
+3504,94102,San Francisco,5. Normal,,,,FALSE
+3517,94111,San Francisco,1. Life Safety,Level 3 (i.e. diesel),4/19/2024,4/19/2023,TRUE
+3518,94111,San Francisco,1. Life Safety,,5/9/2021,5/9/2020,TRUE
+3530,94103,San Francisco,5. Normal,,10/9/2021,10/9/2020,TRUE
+3604,94127,San Francisco,6. Residential,Level 1 (i.e. air cooled),,4/22/2022,TRUE
+3611,94108,San Francisco,5. Normal,Level 3 (i.e. diesel),3/15/2022,3/15/2021,TRUE
+3623,94111,San Francisco,,,,,TRUE
+3628,94103,San Francisco,5. Normal,Level 2,,,FALSE
+3658,94105,San Francisco,1. Life Safety,Level 3 (i.e. diesel),11/30/2022,11/30/2021,TRUE
+3661,94102,San Francisco,5. Normal,,,,FALSE
+3728,94124,San Francisco,,,,,TRUE
+3743,94123,San Francisco,6. Residential,,,,FALSE
+3774,94115,San Francisco,5. Normal,,,,FALSE
+3792,94115,San Francisco,5. Normal,,,,FALSE
+3807,94103,San Francisco,,,,,FALSE
+3809,94109,San Francisco,6. Residential,,,,FALSE
+3818,94107,San Francisco,5. Normal,Level 3 (i.e. diesel),12/11/2022,12/11/2021,TRUE
+3819,94107,San Francisco,5. Normal,Level 3 (i.e. diesel),12/11/2022,12/11/2021,TRUE
+3820,94107,San Francisco,,,10/1/2021,,TRUE
+3835,94105,San Francisco,1. Life Safety,Level 3 (i.e. diesel),10/29/2022,10/30/2020,TRUE
+3837,94105,San Francisco,,,,,TRUE
+3847,94103,San Francisco,5. Normal,,,,FALSE
+3869,94105,San Francisco,5. Normal,Level 3 (i.e. diesel),10/29/2022,10/29/2021,TRUE
+3888,94105,San Francisco,,,,,FALSE
+3890,94111,San Francisco,,,,,TRUE
+3902,94127,San Francisco,6. Residential,Level 1,,,FALSE
+3925,94118,San Francisco,1. Life Safety,Level 2 (i.e. liquid cooled),12/13/2022,12/13/2021,TRUE
+3943,94115,San Francisco,5. Normal,Level 3 (i.e. diesel),11/17/2023,11/17/2022,TRUE
+3956,94123,San Francisco,,,,,FALSE
+3969,94143,San Francisco,,,,,TRUE
+3971,94107,San Francisco,,,,,TRUE
+3984,94103,San Francisco,1. Life Safety,Level 1 (i.e. air cooled),9/1/2023,9/1/2022,TRUE
+4001,94111,San Francisco,,Level 2 (i.e. liquid cooled),11/20/2021,11/20/2020,TRUE
+4025,94107,San Francisco,,,12/1/2021,,TRUE
+4029,94104,San Francisco,,Level 3 (i.e. diesel),,,TRUE
+4094,94109,San Francisco,5. Normal,Level 2 (i.e. liquid cooled),,,TRUE
+4095,94103,San Francisco,5. Normal,Level 2 (i.e. liquid cooled),10/28/2022,10/28/2021,TRUE
+4112,94108,San Francisco,,Level 3 (i.e. diesel),4/9/2023,4/9/2022,TRUE
+4126,94111,San Francisco,1. Life Safety,Level 3 (i.e. diesel),,,TRUE
+4135,94103,San Francisco,1. Life Safety,,4/1/2021,,TRUE
+4151,94103,San Francisco,,,,,TRUE
+4159,94104,San Francisco,,,,,TRUE
+4167,94105,San Francisco,,Level 3 (i.e. diesel),,,TRUE
+4174,94109,San Francisco,,Level 3 (i.e. diesel),6/15/2022,,TRUE
+4179,94102,San Francisco,,,,,TRUE
+4193,94130,San Francisco,5. Normal,Level 2 (i.e. liquid cooled),,,TRUE
+4238,94134,San Francisco,,,,,TRUE
+4243,94103,San Francisco,1. Life Safety,Level 3 (i.e. diesel),8/12/2023,8/12/2022,TRUE
+4258,94108,San Francisco,,,1/17/2023,,TRUE
+4284,94103,San Francisco,,,,,TRUE
+4314,94108,San Francisco,1. Life Safety,Level 3 (i.e. diesel),,,TRUE
+4323,94132,San Francisco,,,,,TRUE
+4340,94105,San Francisco,,,,,TRUE
+4424,94102,San Francisco,5. Normal,Level 3 (i.e. diesel),,12/16/2020,TRUE
+4427,94132,San Francisco,5. Normal,Level 1 (i.e. air cooled),7/7/2023,7/6/2022,TRUE
+4428,94104,San Francisco,5. Normal,Level 3 (i.e. diesel),,,TRUE
+4443,94108,San Francisco,5. Normal,Level 3 (i.e. diesel),,,TRUE
+4454,94105,San Francisco,5. Normal,Level 3 (i.e. diesel),,,TRUE
+4472,94121,San Francisco,6. Residential,Level 1 (i.e. air cooled),10/15/2022,,TRUE
+4492,94105,San Francisco,,,,,TRUE
+4494,94105,San Francisco,,,,,TRUE
+4517,94111,San Francisco,,Level 2 (i.e. liquid cooled),,,TRUE
+4563,94109,San Francisco,,,,,TRUE
+4615,94102,San Francisco,5. Normal,Level 3 (i.e. diesel),,4/13/2022,TRUE
+4617,94107,San Francisco,,,,,TRUE
+27,95117,San Jose,,Level 2 (i.e. liquid cooled),5/13/2022,5/13/2021,FALSE
+62,95128,San Jose,,,,,TRUE
+86,95112,San Jose,,,,,TRUE
+167,95131,San Jose,5. Normal,,,,TRUE
+175,95110,San Jose,,,,,TRUE
+197,95113,San Jose,,,10/28/2016,,TRUE
+236,95132,San Jose,5. Normal,Level 2 (i.e. liquid cooled),7/29/2022,7/29/2021,TRUE
+340,95121,San Jose,,,,,TRUE
+422,95116,San Jose,,,,,TRUE
+439,95125,San Jose,,,1/22/2019,1/22/2018,TRUE
+565,95116,San Jose,1. Life Safety,Level 2 (i.e. liquid cooled),3/17/2024,3/17/2023,TRUE
+640,95126,San Jose,5. Normal,Level 2 (i.e. liquid cooled),2/22/2024,2/22/2023,TRUE
+646,95120,San Jose,7. Remote,,9/6/2017,9/6/2017,TRUE
+657,95120,San Jose,6: Residential,,,,FALSE
+956,,San Jose,,,,,FALSE
+1334,95119,San Jose,5. Normal,Level 2,11/7/2019,11/7/2018,TRUE
+1340,,San Jose,5. Normal,,,,TRUE
+1437,95128,San Jose,5. Normal,Level 3 (i.e. diesel),6/2/2022,6/2/2021,TRUE
+1446,95122,San Jose,1. Life Safety,,10/18/2020,10/18/2018,TRUE
+1478,95002,San Jose,5. Normal,Level 3 (i.e. diesel),8/16/2023,8/16/2022,TRUE
+1513,95124,San Jose,1. Life Safety,Level 1 (i.e. air cooled),2/7/2024,2/14/2022,TRUE
+1643,95131,San Jose,5. Normal,,1/14/2018,7/14/2017,TRUE
+1685,95128,San Jose,,Level 1 (i.e. air cooled),5/13/2022,5/13/2021,TRUE
+1689,95131,San Jose,,,7/28/2016,,TRUE
+1700,95128,San Jose,1. Life Safety,Level 3 (i.e. diesel),5/5/2023,5/5/2022,TRUE
+1703,,San Jose,,,,,TRUE
+1741,95112,San Jose,1. Life Safety,Level 1 (i.e. air cooled),8/12/2022,8/12/2021,TRUE
+1774,95117,San Jose,,,6/6/2020,6/6/2019,TRUE
+1809,,San Jose,5. Normal,Level 2,7/27/2018,7/27/2017,TRUE
+1833,95128,San Jose,1. Life Safety,Level 1 (i.e. air cooled),8/29/2023,8/29/2022,TRUE
+1834,95135,San Jose,6. Residential,Level 1,10/21/2016,10/21/2015,FALSE
+1887,95128,San Jose,1. Life Safety,,12/16/2016,12/16/2015,TRUE
+1914,95116,San Jose,1. Life Safety,Level 2 (i.e. liquid cooled),12/23/2023,12/23/2022,TRUE
+1915,95128,San Jose,1. Life Safety,Level 1 (i.e. air cooled),3/24/2022,3/24/2021,TRUE
+1927,95131,San Jose,,Level 2 (i.e. liquid cooled),4/11/2023,4/11/2022,TRUE
+1928,95131,San Jose,,Level 2 (i.e. liquid cooled),8/1/2021,,TRUE
+1989,95136,San Jose,5. Normal,,5/26/2018,5/26/2017,TRUE
+2035,,San Jose,5. Normal,Level 2 (i.e. liquid cooled),9/9/2023,9/9/2022,TRUE
+2151,95128,San Jose,,Level 2,12/20/2019,12/20/2018,FALSE
+2200,95131,San Jose,5. Normal,Level 2 (i.e. liquid cooled),5/24/2022,5/24/2021,TRUE
+2201,95131,San Jose,5. Normal,,10/18/2017,,TRUE
+2317,95131,San Jose,3. Silver,,,,FALSE
+2319,95128,San Jose,5. Normal,,8/18/2021,8/18/2020,TRUE
+2323,95128,San Jose,5. Normal,Level 2 (i.e. liquid cooled),8/26/2022,8/26/2021,TRUE
+2324,95128,San Jose,5. Normal,,8/13/2021,8/13/2020,TRUE
+2325,95128,San Jose,5. Normal,Level 3 (i.e. diesel),9/8/2022,9/8/2021,TRUE
+2326,95128,San Jose,5. Normal,Level 3 (i.e. diesel),10/28/2022,10/28/2021,TRUE
+2327,95128,San Jose,,,5/12/2021,5/12/2020,TRUE
+2328,95128,San Jose,,,5/12/2021,5/12/2020,TRUE
+2329,95128,San Jose,5. Normal,Level 3 (i.e. diesel),8/23/2022,8/23/2021,TRUE
+2330,95128,San Jose,5. Normal,Level 3 (i.e. diesel),8/23/2022,8/23/2021,TRUE
+2331,95128,San Jose,1. Life Safety,Level 3 (i.e. diesel),8/26/2022,8/26/2021,TRUE
+2332,95128,San Jose,,,8/12/2021,8/12/2020,TRUE
+2333,95128,San Jose,5. Normal,Level 3 (i.e. diesel),8/26/2022,8/26/2021,TRUE
+2334,95128,San Jose,,Level 3 (i.e. diesel),9/5/2022,9/5/2021,TRUE
+2338,,San Jose,5. Normal,,1/21/2021,1/21/2020,FALSE
+2533,95119,San Jose,,,,,FALSE
+2777,95131,San Jose,5. Normal,,6/4/2021,6/4/2020,TRUE
+2802,95112,San Jose,5. Normal,Level 2,,,FALSE
+2803,95112,San Jose,,Level 2,12/31/2019,12/31/2018,TRUE
+2824,95134,San Jose,,,,,FALSE
+2845,95134,San Jose,5. Normal,Level 2 (i.e. liquid cooled),9/15/2023,9/15/2022,TRUE
+2879,95131,San Jose,,,,,FALSE
+2880,95136,San Jose,,,,,FALSE
+2914,95113,San Jose,,,,,TRUE
+2938,95112,San Jose,,,10/19/2018,10/19/2017,TRUE
+2939,,san jose,,,10/20/2018,10/20/2017,TRUE
+2969,95128,San Jose,,,,,TRUE
+2985,95111,San Jose,,,,,TRUE
+2986,95131,San Jose,5. Normal,,8/1/2020,8/1/2019,TRUE
+3023,,San Jose,,,,,FALSE
+3128,95134,San Jose,5. Normal,,8/30/2019,8/30/2018,TRUE
+3137,95118,San Jose,,,,,TRUE
+3138,95118,San Jose,1. Life Safety,Level 1 (i.e. air cooled),4/15/2023,4/15/2022,TRUE
+3148,95123,San Jose,6. Residential,,,,FALSE
+3160,95138,San Jose,5. Normal,,,,FALSE
+3209,95122,San Jose,,,,,FALSE
+3210,95134,San Jose,,,,,FALSE
+3219,95134,San Jose,5. Normal,Level 2,,,TRUE
+3225,95128,San Jose,1. Life Safety,Level 3 (i.e. diesel),9/2/2022,9/2/2021,TRUE
+3226,95128,San Jose,,,6/1/2021,,TRUE
+3253,95134,San Jose,,,,,TRUE
+3264,95126,San Jose,5. Normal,Level 1 (i.e. air cooled),2/10/2022,2/10/2021,TRUE
+3294,95148,San Jose,,,,,FALSE
+3295,95110,San Jose,5. Normal,,,,FALSE
+3302,95131,San Jose,5. Normal,,2/1/2021,,TRUE
+3325,95134,San Jose,,,,,TRUE
+3335,95122,San Jose,1. Life Safety,,4/1/2021,,TRUE
+3336,95122,San Jose,,,3/14/2020,3/14/2019,TRUE
+3340,95119,San Jose,,,,,FALSE
+3341,95129,San Jose,5. Normal,,8/14/2020,8/14/2019,FALSE
+3346,95110,San Jose,5. Normal,,4/1/2021,,FALSE
+3348,95131,San Jose,5. Normal,,1/14/2021,1/14/2020,FALSE
+3369,95128,San Jose,,Level 3 (i.e. diesel),9/2/2022,9/2/2021,TRUE
+3407,95120,San jose,6. Residential,Level 2,,,FALSE
+3462,95127,San Jose,1. Life Safety,Level 1 (i.e. air cooled),2/25/2022,2/25/2021,TRUE
+3499,95126,San Jose,,Level 2,,,FALSE
+3508,95131,San Jose,5. Normal,,3/5/2021,3/5/2020,FALSE
+3509,95131,San Jose,5. Normal,,3/5/2021,3/6/2020,FALSE
+3578,95119,San Jose,,,,,FALSE
+3659,95131,San Jose,,,,,FALSE
+3681,95131,San Jose,,,,,TRUE
+3723,95120,San Jose,,,,,FALSE
+3729,95138,San Jose,6. Residential,,,,FALSE
+3771,95120,San Jose,6. Residential,Level 1 (i.e. air cooled),9/8/2023,9/8/2022,TRUE
+3778,,San Jose,,,,,FALSE
+3811,95110,San Jose,,Level 3 (i.e. diesel),6/6/2023,6/6/2022,TRUE
+3836,95113,San Jose,,Level 3 (i.e. diesel),,,TRUE
+3854,95131,San Jose,5. Normal,Level 1 (i.e. air cooled),7/1/2022,7/1/2021,TRUE
+3864,95112,San Jose,5. Normal,Level 2 (i.e. liquid cooled),8/3/2023,8/3/2022,TRUE
+3882,95126,San Jose,8. Portable/RV/other,,,,FALSE
+3883,95126,San Jose,,,6/1/2021,,TRUE
+3884,95126,San Jose,,,,,TRUE
+3885,95110,San Jose,5. Normal,,,,FALSE
+3910,95131,San Jose,4. Bronze,,11/1/2021,,TRUE
+3911,95131,San Jose,,Level 1 (i.e. air cooled),4/11/2023,4/11/2022,TRUE
+3914,95119,San Jose,5. Normal,,1/7/2023,1/7/2022,TRUE
+3962,95131,San Jose,,,,,TRUE
+3983,95120,San Jose,,,,,TRUE
+4110,95110,San Jose,,Level 3 (i.e. diesel),1/29/2022,1/29/2021,TRUE
+4148,95133,San Jose,,,,,TRUE
+4162,95128,San Jose,,Level 3 (i.e. diesel),,,TRUE
+4163,95128,San Jose,,,,,TRUE
+4164,95128,San Jose,1. Life Safety,Level 3 (i.e. diesel),6/6/2021,,TRUE
+4165,95128,San Jose,1. Life Safety,Level 3 (i.e. diesel),6/6/2021,,TRUE
+4245,95112,San Jose,,,,,TRUE
+4321,95117,San Jose,1. Life Safety,Level 3 (i.e. diesel),,,FALSE
+4366,95134,San Jose,,,,,TRUE
+4378,95134,San Jose,,Level 3 (i.e. diesel),4/13/2024,4/13/2023,TRUE
+4408,95118,San Jose,,Level 2 (i.e. liquid cooled),,,TRUE
+4425,95135,San Jose,5. Normal,Level 2 (i.e. liquid cooled),,1/1/2021,TRUE
+4456,95117,San Jose,1. Life Safety,Level 2 (i.e. liquid cooled),9/2/2023,9/2/2022,TRUE
+4475,95135,San Jose,5. Normal,Level 3 (i.e. diesel),12/13/2023,12/13/2022,TRUE
+4476,95135,San Jose,5. Normal,Level 3 (i.e. diesel),,12/19/2022,TRUE
+4477,95135,San Jose,5. Normal,Level 3 (i.e. diesel),,,TRUE
+4484,95135,San Jose,5. Normal,Level 3 (i.e. diesel),3/7/2024,3/7/2023,TRUE
+4485,95135,San Jose,5. Normal,Level 3 (i.e. diesel),,,TRUE
+4486,95135,San Jose,5. Normal,Level 3 (i.e. diesel),1/3/2024,1/3/2023,TRUE
+4487,95135,San Jose,5. Normal,Level 3 (i.e. diesel),,12/14/2022,TRUE
+4488,95128,San Jose,5. Normal,Level 3 (i.e. diesel),12/6/2023,12/6/2022,TRUE
+4489,95113,San Jose,5. Normal,Level 3 (i.e. diesel),,,TRUE
+4490,95135,San Jose,5. Normal,Level 3 (i.e. diesel),,,TRUE
+4499,95134,San Jose,5. Normal,,,2/9/2022,TRUE
+4500,95128,San Jose,1. Life Safety,Level 2 (i.e. liquid cooled),,2/1/2022,TRUE
+4508,95123,San Jose,5. Normal,Level 2 (i.e. liquid cooled),,11/22/2022,TRUE
+4509,95123,San Jose,5. Normal,Level 2 (i.e. liquid cooled),,11/28/2022,TRUE
+4513,95138,San Jose,5. Normal,,12/14/2023,12/14/2022,TRUE
+4558,95131,San Jose,,,,,TRUE
+4577,95122,San Jose,,,,,TRUE
+2320,95134,San Jose,5. Normal,Level 3 (i.e. diesel),6/10/2023,6/10/2022,TRUE
+114,94579,San Leandro,8: Portable/RV/other,,,,FALSE
+456,94579,San Leandro,1. Life Safety,,10/9/2019,10/9/2018,TRUE
+1318,94577,San Leandro,,Level 3 (i.e. diesel),4/27/2022,,TRUE
+1667,94578,San Leandro,5: Normal,,,,FALSE
+1984,94577,San Leandro,,,8/12/2016,,FALSE
+2253,94578,San Leandro,1. Life Safety,Level 3 (i.e. diesel),3/30/2022,6/3/2020,TRUE
+3227,94577,San Leandro,5. Normal,,7/3/2019,7/3/2018,TRUE
+3593,94578,San Leandro,5. Normal,,,,FALSE
+3597,94577,San Leandro,5. Normal,,,,FALSE
+3941,94578,San Leandro,,,,,TRUE
+3989,94577,San Leandro,5. Normal,,,,TRUE
+4075,94577,San Leandro,6. Residential,Level 2 (i.e. liquid cooled),1/1/2021,,TRUE
+4202,94577,San Leandro,,,,,TRUE
+4241,94577,San Leandro,,,,,TRUE
+4468,94578,San Leandro,,,,,TRUE
+4538,94577,San Leandro,,,2/2/2024,,TRUE
+4605,94578,San Leandro,6. Residential,Level 1 (i.e. air cooled),4/24/2024,4/24/2023,TRUE
+2026,94580,San Lorenzo,5. Normal,,10/15/2015,,FALSE
+2883,94580,San Lorenzo,1. Life Safety,Level 2 (i.e. liquid cooled),11/12/2019,11/1/2021,TRUE
+4104,94580,San Lorenzo,,,1/1/2022,,TRUE
+4382,94580,San Lorenzo,,,,,TRUE
+967,,San Martin,7. Remote,Level 1,,,TRUE
+1600,95046,San Martin,6. Residential,,11/15/2020,11/15/2019,TRUE
+226,94401,San Mateo,6. Residential,,9/5/2018,9/5/2017,TRUE
+239,94401,San Mateo,6. Residential,,9/4/2020,9/4/2019,TRUE
+286,94402,San Mateo,5. Normal,,12/15/2017,12/15/2016,FALSE
+344,94401,San MAteo,5. Normal,Level 3,4/28/2018,4/28/2017,FALSE
+348,94401,San Mateo,5. Normal,,10/7/2017,10/6/2016,TRUE
+663,94402,San Mateo,,,,,FALSE
+743,94402,San Mateo,6. Residential,,3/3/2024,3/3/2023,TRUE
+1017,94402,San Mateo,6. Residential,Level 1 (i.e. air cooled),5/18/2022,5/18/2021,TRUE
+1088,94403,San Mateo,5. Normal,Level 1 (i.e. air cooled),4/16/2022,4/20/2021,TRUE
+1277,,San Mateo,6. Residential,MC,4/15/2016,,TRUE
+1746,94403,San Mateo,,Level 1 (i.e. air cooled),2/17/2022,2/17/2021,TRUE
+2793,94402,San Mateo,,Level 3,,,FALSE
+2843,94402,San Mateo,,,,,FALSE
+2852,94403,San Mateo,,,,,TRUE
+2936,94402,San Mateo,,,,,FALSE
+3033,94403,San Mateo,,,,,TRUE
+3085,94402,San Mateo,,,,,FALSE
+3127,94401,San Mateo,,,,,FALSE
+4136,94403,San Mateo,,,,,FALSE
+4201,94403,San Mateo,,Level 2 (i.e. liquid cooled),4/24/2024,4/24/2023,TRUE
+4280,94401,San Mateo,5. Normal,,,,FALSE
+724,94806,San Pablo,5. Normal,Level 3,4/5/2017,4/4/2016,TRUE
+243,94903,San Rafael,6. Residential,,10/15/2020,10/15/2019,TRUE
+1078,94903,San Rafael,6. Residential,Level 1,12/13/2017,11/15/2016,TRUE
+1362,94901,San Rafael,7. Remote,Level 1 (i.e. air cooled),3/24/2023,3/24/2022,TRUE
+2837,94903,San Rafael,6. Residential,,,,TRUE
+3022,94901,San Rafael,6. Residential,,10/15/2020,10/15/2019,FALSE
+3715,94901,San Rafael,4. Bronze,,,,FALSE
+3889,94901,San Rafael,6. Residential,Level 2 (i.e. liquid cooled),6/11/2022,6/11/2021,TRUE
+3915,94903,San Rafael,5. Normal,,,,TRUE
+4079,94903,San Rafael,,,,,FALSE
+2269,94582,San Ramon,6. Residential,,10/27/2021,10/27/2020,TRUE
+3694,94583,San Ramon,6. Residential,,,,FALSE
+3863,94583,San Ramon,6. Residential,,2/8/2021,2/8/2020,TRUE
+4467,94583,San Ramon,6. Residential,Level 1 (i.e. air cooled),9/16/2023,9/16/2022,TRUE
+3373,94583,San Ramon ,6. Residential,Level 1 (i.e. air cooled),7/21/2022,7/21/2021,TRUE
+3121,83864,Sandpoint,,,,,FALSE
+199,95050,Santa Clara,,,,,FALSE
+221,95050,Santa Clara,1. Life Safety,Level 2 (i.e. liquid cooled),10/3/2023,10/3/2022,TRUE
+813,95054,Santa Clara,,,,,FALSE
+1518,95054-1817,Santa Clara,5. Normal,,4/20/2021,4/20/2020,FALSE
+1680,95054,Santa Clara,5. Normal,,2/4/2021,2/4/2020,TRUE
+1780,65054,Santa Clara,5. Normal,Level 2,10/19/2021,10/19/2020,TRUE
+1781,95054,Santa Clara,,,10/19/2021,10/19/2020,TRUE
+1888,,Santa Clara,5. Normal,,12/8/2016,12/8/2015,TRUE
+1889,,Santa Clara,5. Normal,,12/1/2016,12/1/2015,TRUE
+1890,95054,Santa Clara,5. Normal,,12/21/2016,12/21/2015,TRUE
+2341,95054,Santa Clara,5. Normal,,5/1/2021,,FALSE
+2903,95050,Santa Clara,,,,,FALSE
+2947,95050,Santa Clara,5. Normal,,2/1/2021,,TRUE
+3142,95054,Santa Clara,5. Normal,Level 2 (i.e. liquid cooled),8/29/2023,8/29/2022,TRUE
+3396,95054,Santa Clara,5. Normal,Level 2,,,FALSE
+3848,95054,Santa Clara,5. Normal,,,,FALSE
+3973,95054,Santa Clara,,,,,TRUE
+4041,95051,Santa Clara,5. Normal,Level 2 (i.e. liquid cooled),3/3/2023,3/3/2022,TRUE
+4073,95054,Santa Clara,,,1/29/2021,,TRUE
+4099,95054,Santa Clara,5. Normal,Level 3 (i.e. diesel),,,TRUE
+4186,95054,Santa Clara,5. Normal,Level 3 (i.e. diesel),8/2/2023,8/2/2022,TRUE
+4433,,Santa Clara,,,,,TRUE
+4506,95054,Santa Clara,,,,,TRUE
+3852,95060,Santa Cruz,7. Remote,Level 1,,,FALSE
+4445,95062,Santa Cruz,,Level 3 (i.e. diesel),,,TRUE
+203,95403,Santa Rosa,,,,,TRUE
+1579,95404,Santa Rosa,7. Remote,,9/17/2020,9/17/2019,TRUE
+2768,95403,Santa Rosa,1. Life Safety,Level 3,,,FALSE
+2769,95403,Santa Rosa,1. Life Safety,,,,FALSE
+3560,95403,Santa Rosa,,,,,TRUE
+4403,95405,Santa Rosa,5. Normal,Level 2 (i.e. liquid cooled),,,TRUE
+258,95070,Saratoga,6. Residential,Level 1 (i.e. air cooled),11/5/2021,11/5/2020,TRUE
+486,95070,Saratoga,7. Remote,Level 2 (i.e. liquid cooled),4/25/2024,4/25/2023,TRUE
+564,95070,Saratoga,6. Residential,Level 1 (i.e. air cooled),11/16/2023,11/16/2022,TRUE
+647,95070,Saratoga,6. Residential,Level 1 (i.e. air cooled),2/8/2023,2/8/2022,TRUE
+653,95070,Saratoga,6. Residential,Level 1 (i.e. air cooled),1/11/2024,1/11/2023,TRUE
+710,95070,Saratoga,,,,,FALSE
+791,95070,Saratoga,6. Residential,Level 1 (i.e. air cooled),4/27/2022,4/27/2021,TRUE
+901,95070,Saratoga,2. Gold,Level 3 (i.e. diesel),6/4/2021,6/5/2020,FALSE
+1070,95070,Saratoga,6. Residential,,3/23/2024,3/22/2023,TRUE
+1221,95070,Saratoga,6. Residential,Level 3,3/9/2016,,FALSE
+2808,95070,Saratoga,,,,,FALSE
+2937,95070,Saratoga,6. Residential,,10/15/2019,10/15/2018,TRUE
+2965,95070,Saratoga,,,,,FALSE
+3153,95070,Saratoga,,,,,FALSE
+3276,95070,Saratoga,,,,,FALSE
+3337,95070,Saratoga,,,,,FALSE
+3448,95070,Saratoga,6. Residential,Level 1 (i.e. air cooled),4/27/2022,4/27/2021,TRUE
+3491,95070,Saratoga,6. Residential,,4/7/2024,4/7/2023,TRUE
+3654,95070,Saratoga,,,,,TRUE
+3662,95070,Saratoga,5. Normal,,10/24/2020,10/24/2019,TRUE
+3713,95070,Saratoga,,,,,FALSE
+3722,95070,Saratoga,,,,,FALSE
+3744,95070,Saratoga,6. Residential,Level 1 (i.e. air cooled),2/8/2023,2/8/2022,TRUE
+3988,95070,Saratoga,1. Life Safety,,,,TRUE
+4090,95070,Saratoga,6. Residential,Level 2 (i.e. liquid cooled),3/29/2022,3/29/2021,TRUE
+4381,95070,Saratoga,6. Residential,Level 1 (i.e. air cooled),12/14/2023,12/14/2022,TRUE
+4394,95070,Saratoga,6. Residential,,,,TRUE
+4421,95070,Saratoga,,,,,TRUE
+263,94965-2521,Sausalito,,,,,FALSE
+2283,94965,Sausalito,6. Residential,,,,FALSE
+3156,94965,Sausalito,,Level 3,3/18/2020,3/18/2019,FALSE
+3314,94965,Sausalito,1. Life Safety,,,,FALSE
+3579,94965,Sausalito,7. Remote,Level 1 (i.e. air cooled),11/16/2021,,TRUE
+3755,94965,Sausalito,5. Normal,,,,TRUE
+4203,94965,Sausalito,,,,,TRUE
+3070,95066,Scotts Valley,,,1/1/2021,,TRUE
+3730,95066,Scotts Valley,6. Residential,,,,FALSE
+4275,95066,Scotts Valley,7. Remote,Level 2 (i.e. liquid cooled),10/21/2021,,TRUE
+1608,95472,Sebastopol,6. Residential,Level 1,9/29/2020,9/29/2019,FALSE
+2951,95472,Sebastopol,,,,,FALSE
+3110,95472,Sebastopol,,,,,FALSE
+3207,95472,Sebastopol,,,,,FALSE
+342,94124,San Francisco,,,,,FALSE
+544,,San Francisco,,,,,FALSE
+1234,94131,San Francisco,6. Residential,,,12/24/2014,TRUE
+1718,,San Francisco,,,12/13/2020,,TRUE
+828,95476,Sonoma,,Level 1 (i.e. air cooled),2/8/2024,2/8/2023,TRUE
+3074,95476,Sonoma,6. Residential,,7/16/2020,7/16/2019,FALSE
+3132,95476,Sonoma,,,,,TRUE
+4069,95476,Sonoma,6. Residential,Level 1 (i.e. air cooled),3/2/2023,3/2/2022,TRUE
+4096,95073,Soquel,,,,,TRUE
+664,94080,South San Francisco,5. Normal,Level 1 (i.e. air cooled),9/12/2023,9/12/2022,TRUE
+1756,94080,South San Francisco,1. Life Safety,Level 3,6/27/2020,6/27/2019,TRUE
+2807,94080,South San Francisco,,,,,FALSE
+2826,94080,South San Francisco,1. Life Safety,Level 3,,,TRUE
+3392,94080,South San Francisco,1. Life Safety,Level 3,,,TRUE
+3424,94080,South San Francisco,1. Life Safety,,,,FALSE
+3429,94080,South San Francisco,6. Residential,Level 1,2/12/2020,2/12/2019,FALSE
+3524,94080,South San Francisco,1. Life Safety,Level 3,12/1/2019,,TRUE
+3525,94080,South San Francisco,1. Life Safety,Level 3,1/18/2021,1/18/2020,TRUE
+3832,94080,South San Francisco,,,,,FALSE
+4102,94080,South San Francisco,5. Normal,Level 3 (i.e. diesel),7/2/2022,7/2/2021,TRUE
+4124,94080,South San Francisco,,,,,TRUE
+4286,94080,South San Francisco,,,,,TRUE
+4435,94080,South San Francisco,,,,,TRUE
+4436,94080,South San Francisco,,,,,TRUE
+3581,94574,St. Helena,6. Residential,,1/7/2021,1/7/2020,FALSE
+4057,94574,St. Helena,6. Residential,Level 2 (i.e. liquid cooled),12/22/2023,12/22/2022,TRUE
+1217,94305,Stanford,6. Residential,Level 1 (i.e. air cooled),2/7/2023,2/7/2022,TRUE
+1384,94305,Stanford,6. Residential,Level 1 (i.e. air cooled),9/21/2023,9/21/2022,TRUE
+2776,94305,Stanford,,,6/11/2020,6/11/2019,FALSE
+2208,95209,Stockton,1. Life Safety,,5/28/2020,5/28/2019,TRUE
+3917,95206,Stockton,,,,,FALSE
+3926,95215,Stockton,,,4/1/2021,,TRUE
+4067,95203,Stockton,7. Remote,Level 2 (i.e. liquid cooled),,,TRUE
+53,94086,Sunnyvale,5. Normal,,,,TRUE
+1161,94086,Sunnyvale,6. Residential,Level 1 (i.e. air cooled),4/7/2024,4/7/2023,TRUE
+1201,94087,Sunnyvale,6. Residential,,1/24/2023,1/24/2022,TRUE
+1505,,Sunnyvale,,,8/16/2017,,FALSE
+1740,94087,Sunnyvale,,,,,FALSE
+1808,94086,Sunnyvale,,Level 2,9/22/2018,9/22/2017,TRUE
+1866,94086,Sunnyvale,,Level 1 (i.e. air cooled),9/26/2023,9/26/2022,TRUE
+2340,94085,Sunnyvale,,Level 2 (i.e. liquid cooled),11/5/2021,11/5/2020,FALSE
+2923,94085,Sunnyvale,5. Normal,Level 3,,,FALSE
+3660,94085,Sunnyvale,5. Normal,,,,FALSE
+3735,94087,Sunnyvale,,,,,FALSE
+4097,94086,Sunnyvale,5. Normal,Level 3 (i.e. diesel),,,TRUE
+4128,94089,Sunnyvale,,,7/1/2021,8/15/2020,TRUE
+4146,94087,Sunnyvale,5. Normal,,,,FALSE
+4272,94089,Sunnyvale,,,,,TRUE
+593,94586,Sunol,6. Residential,Level 1 (i.e. air cooled),4/22/2022,4/22/2020,TRUE
+1350,94586,Sunol,7. Remote,Level 1,2/9/2018,2/9/2017,FALSE
+2877,94586,Sunol,,,,,FALSE
+3438,94586,Sunol,6. Residential,Level 1,,,FALSE
+3798,94586,Sunol,5. Normal,,,,FALSE
+881,95685,Sutter Creek,1. Life Safety,,,,TRUE
+1587,,Tiberon,6. Residential,,1/29/2021,1/29/2020,TRUE
+585,94920,Tiburon,6. Residential,,10/15/2015,,TRUE
+596,94920,Tiburon,6. Residential,,12/15/2018,12/14/2017,FALSE
+2695,94920,Tiburon,,Level 2,,,FALSE
+2806,94920,Tiburon,,,,,FALSE
+3083,94920,Tiburon,,,,,FALSE
+3084,94920,Tiburon,,,,,FALSE
+3118,,Tiburon,,,,,FALSE
+3205,94920,Tiburon,6. Residential,,1/1/2021,,FALSE
+3570,94920,Tiburon,6. Residential,Level 2 (i.e. liquid cooled),5/21/2022,5/21/2021,FALSE
+3831,94920,Tiburon,6. Residential,,12/20/2020,12/20/2019,TRUE
+4215,94920,Tiburon,,,,,TRUE
+4225,94920,Tiburon,5. Normal,Level 3 (i.e. diesel),4/3/2024,4/3/2023,TRUE
+4226,94920,Tiburon,1. Life Safety,Level 3 (i.e. diesel),,,TRUE
+4235,94920,Tiburon,1. Life Safety,Level 3 (i.e. diesel),,,TRUE
+4409,94920,Tiburon,6. Residential,Level 2 (i.e. liquid cooled),5/21/2022,5/21/2021,TRUE
+3357,95376,Tracy,,,,,FALSE
+3603,95304,Tracy,5. Normal,,,,FALSE
+3930,95304,Tracy,,,,,FALSE
+4054,95304,Tracy,,,,,TRUE
+4160,95304,Tracy,5. Normal,,,,TRUE
+2797,96161,Truckee,,,,,FALSE
+36,94587,Union City,,,,,TRUE
+403,94587,Union City,5. Normal,,,,FALSE
+793,94587,Union City,6. Residential,,7/17/2019,7/17/2018,TRUE
+832,94587,Union City,,,,,TRUE
+2246,94587,Union City,1. Life Safety,Level 3 (i.e. diesel),4/8/2022,7/7/2020,TRUE
+2247,94587,Union City,,,,,FALSE
+2255,94587,Union City,1. Life Safety,Level 3 (i.e. diesel),5/20/2020,5/20/2019,TRUE
+2256,94587,Union City,1. Life Safety,Level 2 (i.e. liquid cooled),4/3/2024,4/3/2023,TRUE
+2775,94587,Union City,,,,,FALSE
+3397,94587,Union City,1. Life Safety,Level 2 (i.e. liquid cooled),4/4/2024,4/4/2023,TRUE
+3516,94587,Union City,1. Life Safety,,4/8/2021,6/2/2020,TRUE
+3558,94587,Union City,,,,,TRUE
+3622,94587,Union City,,,,,TRUE
+4206,94587,Union City,5. Normal,Level 3 (i.e. diesel),,,TRUE
+4345,94587,Union City,5. Normal,Level 3 (i.e. diesel),,,TRUE
+4346,94587,Union City,5. Normal,Level 3 (i.e. diesel),,5/9/2020,TRUE
+4496,94587,Union City,5. Normal,Level 3 (i.e. diesel),11/17/2023,11/17/2022,TRUE
+4557,94587,Union City,5. Normal,Level 2 (i.e. liquid cooled),,,TRUE
+4592,94587,Union City,,,,,TRUE
+206,94590,Vallejo,7. Remote,,2/2/2019,2/2/2018,TRUE
+607,94590,Vallejo,,,,,TRUE
+3549,,Vandenberg Air Force Base,5. Normal,,,,FALSE
+1717,,Various,,,9/24/2016,,FALSE
+3432,95689,Volcano,6. Residential,Level 1,,,FALSE
+224,94598,Walnut Creek,1. Life Safety,,,,TRUE
+254,94598,Walnut Creek,5. Normal,,11/16/2017,,TRUE
+614,94598,Walnut Creek,6. Residential,,7/12/2017,,TRUE
+691,94597,Walnut Creek,6. Residential,,2/12/2019,2/12/2018,TRUE
+1981,94596,Walnut Creek,,,12/15/2016,,TRUE
+2882,94598,Walnut Creek,6. Residential,Level 1 (i.e. air cooled),4/20/2024,4/20/2023,TRUE
+2956,94598,Walnut Creek,1. Life Safety,,,,FALSE
+3426,94598,Walnut Creek,,,,,FALSE
+3537,94598,Walnut Creek,6. Residential,Level 2,7/31/2020,7/31/2019,TRUE
+4021,94596,Walnut Creek,,,,,TRUE
+4098,94598,Walnut Creek,5. Normal,Level 3 (i.e. diesel),,1/1/2018,TRUE
+4341,94596,Walnut Creek,5. Normal,,2/4/2023,2/4/2022,TRUE
+4545,94596,Walnut Creek,5. Normal,Level 2 (i.e. liquid cooled),,,TRUE
+1628,95076,Watsonville,7. Remote,,5/10/2020,5/10/2019,FALSE
+3897,95076,Watsonville,5. Normal,,,,FALSE
+4322,95076,Watsonville,1. Life Safety,Level 3 (i.e. diesel),,,TRUE
+4599,95076,Watsonville,5. Normal,,,,TRUE
+4603,95076,Watsonville,5. Normal,,,,TRUE
+1421,,West Point,6: Residential,,,,FALSE
+1762,95605,West Sacramento,7. Remote,,,,TRUE
+2957,95492,Windsor,,,,,FALSE
+3122,95492,Windsor,,Level 3,,,FALSE
+3493,71483,Winnfield,,,,,FALSE
+92,94062,Woodside,6. Residential,,7/18/2020,7/18/2019,FALSE
+227,94062,Woodside,6. Residential,,4/21/2021,4/21/2020,TRUE
+323,94062,Woodside,6. Residential,,11/2/2017,,TRUE
+398,94062,Woodside,,,3/6/2024,3/6/2023,TRUE
+464,94062,Woodside,6. Residential,,12/8/2017,12/8/2016,FALSE
+496,,Woodside,6. Residential,Level 2 (i.e. liquid cooled),3/16/2024,3/16/2023,TRUE
+505,,Woodside,6. Residential,,4/21/2021,4/21/2020,TRUE
+548,94062,Woodside,7. Remote,Level 1,8/7/2016,8/7/2015,TRUE
+587,94062,Woodside,6. Residential,Level 1,9/12/2018,9/12/2017,TRUE
+644,94062,Woodside,6. Residential,Level 2,11/29/2018,11/29/2017,TRUE
+652,94062,Woodside,6. Residential,Level 2,9/10/2019,9/10/2018,TRUE
+662,94062,Woodside,7. Remote,,12/6/2019,12/6/2018,TRUE
+681,94062,Woodside,6. Residential,Level 1,1/15/2020,1/15/2019,FALSE
+720,94062,Woodside,6. Residential,Level 1 (i.e. air cooled),1/18/2022,1/18/2021,TRUE
+734,94062,Woodside,6. Residential,Level 1,2/14/2018,,TRUE
+957,94062,Woodside,,,,,TRUE
+1028,94062,Woodside,,,,,FALSE
+1291,94062,Woodside,5. Normal,,1/12/2018,1/12/2017,TRUE
+1411,94062,Woodside,6: Residential,,,,FALSE
+1463,94062,Woodside,4. Bronze,Level 2 (i.e. liquid cooled),12/9/2022,12/9/2021,FALSE
+1589,94062,Woodside,6. Residential,Level 1 (i.e. air cooled),7/20/2023,7/20/2022,TRUE
+1598,94062,Woodside,6. Residential,Level 1 (i.e. air cooled),1/3/2024,1/3/2023,TRUE
+1720,94062,Woodside,6. Residential,,,,FALSE
+1749,94062,Woodside,6. Residential,,2/13/2021,2/13/2020,TRUE
+2202,94062,Woodside,,,4/28/2017,,FALSE
+2205,94062,Woodside,6. Residential,,,,FALSE
+2423,,Woodside,6. Residential,,8/23/2019,8/23/2018,TRUE
+2900,94062,Woodside,6. Residential,,10/24/2017,9/1/2016,TRUE
+2907,94062,Woodside,,,,,FALSE
+2968,94062,Woodside,4. Bronze,Level 2 (i.e. liquid cooled),12/9/2022,12/9/2021,TRUE
+2975,94062,Woodside,6. Residential,Level 2,,,FALSE
+2976,94062,Woodside,,,,,FALSE
+3020,94062,Woodside,,,,,FALSE
+3096,94062,Woodside,6. Residential,Level 2,,,TRUE
+3233,94062,Woodside,6. Residential,,2/1/2021,,TRUE
+3250,94062,Woodside,6. Residential,Level 1,8/15/2020,8/15/2019,FALSE
+3298,94062,Woodside,,,,,FALSE
+3309,94062,Woodside,6. Residential,,1/1/2021,,TRUE
+3366,94062,Woodside,6. Residential,,,,FALSE
+3390,94062,Woodside,6. Residential,Level 2,,5/1/2018,FALSE
+3500,94062,Woodside,,,3/1/2022,,TRUE
+3616,94062,Woodside,,,3/1/2022,,TRUE
+3733,94062,Woodside,6. Residential,Level 1 (i.e. air cooled),8/22/2023,8/22/2022,TRUE
+3834,94062,Woodside,6. Residential,Level 1 (i.e. air cooled),4/16/2022,4/16/2021,TRUE
+3920,94062,Woodside,6. Residential,Level 1 (i.e. air cooled),9/13/2022,9/13/2021,TRUE
+3944,94062,Woodside,6. Residential,Level 1 (i.e. air cooled),7/20/2023,7/20/2022,TRUE
+4011,94062,Woodside,6. Residential,,3/9/2023,3/9/2022,TRUE
+4043,94062,Woodside,5. Normal,,4/1/2022,1/22/2023,TRUE
+4048,94062,Woodside,6. Residential,Level 2 (i.e. liquid cooled),,,FALSE
+4172,94062,Woodside,,Level 1 (i.e. air cooled),9/21/2023,9/21/2022,TRUE
+4278,94062,Woodside,,,,,TRUE
+4279,94062,Woodside,,,,,TRUE
+4317,94062,Woodside,,,,,TRUE
+4343,94062,Woodside,6. Residential,,,,TRUE
+4393,94062,Woodside,5. Normal,Level 2 (i.e. liquid cooled),2/9/2024,2/9/2023,TRUE
+4584,94062,Woodside,6. Residential,Level 2 (i.e. liquid cooled),3/22/2024,3/22/2023,TRUE
+4587,94062,Woodside,,,,,TRUE
+4590,94062,Woodside,,,,,TRUE
+4594,94599,Yountville,,,,,TRUE
+19,,,,,,,FALSE
+34,,,,,,,TRUE
+43,,,,,,,TRUE
+72,,,,,,,TRUE
+99,,,,,,,TRUE
+100,,,,,,,FALSE
+109,,,,Level 1 (i.e. air cooled),,,TRUE
+119,,,,,,,TRUE
+138,,,,,2/1/2021,,TRUE
+176,,,,,,,TRUE
+189,,,,,,,TRUE
+190,,,,,,,TRUE
+191,,,,,,,TRUE
+208,,,,,,,TRUE
+282,,,,,6/1/2017,,TRUE
+290,,,,,,,TRUE
+332,,,,,,,FALSE
+779,,,,,,,TRUE
+930,,,,,,,FALSE
+992,,,,,,,FALSE
+1058,,,,,,,TRUE
+1123,,,,,9/15/2017,,FALSE
+1170,,,,,,,FALSE
+1278,,,6. Residential,Level 1 (i.e. air cooled),,,TRUE
+1330,,,,,,,FALSE
+1395,,,,,,,TRUE
+1409,,,,,,,TRUE
+1413,,,,,,,FALSE
+1467,,,,,,,FALSE
+1481,,,,,,,TRUE
+1509,,,,,,,FALSE
+1520,,,6: Residential,,,,FALSE
+1524,,,,,,,TRUE
+1541,,,6: Residential,,,,FALSE
+1556,,,,,,,FALSE
+1583,,,,,,,FALSE
+1584,,,,,,,FALSE
+1644,,,,,,,FALSE
+1679,,,1: Life Safety,,,,FALSE
+1684,,,,,,,FALSE
+1696,,,,,,,FALSE
+1706,,,,,,,FALSE
+1782,,,1. Life Safety,Level 3 (i.e. diesel),5/31/2023,5/31/2022,TRUE
+1832,,,1. Life Safety,Level 2 (i.e. liquid cooled),8/29/2023,8/29/2022,TRUE
+1847,,,,,4/6/2024,4/6/2023,TRUE
+1850,,,5. Normal,,10/1/2015,,TRUE
+1953,,,,,,,FALSE
+1979,,,6. Residential,,7/18/2020,7/18/2019,TRUE
+1993,,,,,,,FALSE
+1999,,,,,,,FALSE
+2003,,,,Level 2,,8/18/2017,FALSE
+2004,,,,,,,FALSE
+2005,,,,Level 1 (i.e. air cooled),8/31/2022,8/31/2021,TRUE
+2009,,,6: Residential,,,,FALSE
+2010,,,6: Residential,,,,FALSE
+2011,,,6: Residential,,,,FALSE
+2012,,,6: Residential,,,,FALSE
+2013,,,6: Residential,,,,FALSE
+2067,,,,,,,FALSE
+2271,,,,,,,TRUE
+2277,,,,,,,FALSE
+2279,,,,,,,FALSE
+2353,,,,,,,FALSE
+2397,,,,,,,FALSE
+2471,,,,,,,FALSE
+2546,,,,,,,TRUE
+2622,,,,,,,FALSE
+2671,,,,,,,FALSE
+2773,,,,,,,FALSE
+2784,,,,,,,FALSE
+2786,,,,Level 3,,,FALSE
+2800,,,,,,,FALSE
+2804,,,,,,,FALSE
+2809,,,,,,,FALSE
+2811,,,,,,,FALSE
+2822,,,,,,,FALSE
+2823,,,,,,,TRUE
+2825,,,,,,,FALSE
+2828,,,,,4/14/2018,,FALSE
+2831,,,,,,,FALSE
+2832,,,,,,,TRUE
+2846,,,,Level 2 (i.e. liquid cooled),,,TRUE
+2847,,,,,,,FALSE
+2855,,,,,,,FALSE
+2856,,,,,,,FALSE
+2860,,,,,,,FALSE
+2861,,,,,,,FALSE
+2862,,,,,,,FALSE
+2863,,,,,,,FALSE
+2865,,,,,,,FALSE
+2868,,,,,,,FALSE
+2874,,,,,,,FALSE
+2876,,,,,,,FALSE
+2878,,,,,,,FALSE
+2899,,,,,,,FALSE
+2901,,,,,,,FALSE
+2905,,,,,,,TRUE
+2932,,,,,,,FALSE
+2933,,,,,,,FALSE
+2944,,,,Level 3,,,FALSE
+2950,,,,,,,FALSE
+2989,,,,,,,FALSE
+3001,,,,,,,FALSE
+3005,,,,,,,FALSE
+3007,,,,,,,TRUE
+3008,,,,,,,FALSE
+3010,,,,,,,FALSE
+3027,,,,,,,FALSE
+3087,,,,,,,FALSE
+3099,,,,,,,TRUE
+3130,,,,,,,FALSE
+3139,,,,,,,FALSE
+3162,,,,,,,FALSE
+3234,,,,,,,FALSE
+3235,,,,,,,FALSE
+3245,,,,,,,FALSE
+3248,,,5. Normal,,,,FALSE
+3249,,,6. Residential,Level 1 (i.e. air cooled),10/12/2022,10/12/2021,TRUE
+3251,,,6. Residential,,,,FALSE
+3258,,,,,,,FALSE
+3260,,,,,,,FALSE
+3275,,,,,,,TRUE
+3283,,,6. Residential,Level 1 (i.e. air cooled),1/17/2023,1/17/2022,TRUE
+3292,,,,,,,FALSE
+3315,,,5. Normal,Level 1 (i.e. air cooled),12/7/2023,12/7/2022,TRUE
+3316,,,5. Normal,Level 2 (i.e. liquid cooled),6/29/2022,6/29/2021,TRUE
+3317,,,5. Normal,Level 2 (i.e. liquid cooled),12/7/2023,12/7/2022,TRUE
+3318,,,,Level 2 (i.e. liquid cooled),9/28/2023,9/28/2022,TRUE
+3319,,,1. Life Safety,Level 1 (i.e. air cooled),12/7/2023,12/7/2022,TRUE
+3321,,,1. Life Safety,Level 2 (i.e. liquid cooled),9/28/2023,9/28/2022,TRUE
+3323,,,5. Normal,Level 3 (i.e. diesel),12/7/2023,12/7/2022,TRUE
+3324,,,5. Normal,Level 3 (i.e. diesel),12/7/2023,12/7/2022,TRUE
+3329,,,,,,,FALSE
+3332,,,6. Residential,,,,FALSE
+3343,,,5. Normal,,1/20/2021,1/20/2020,FALSE
+3446,,,6. Residential,Level 1,,,FALSE
+3456,,,,,,,FALSE
+3464,,,,,7/1/2021,,TRUE
+3473,,,,,,,FALSE
+3515,,,,,,,FALSE
+3521,,,,,,,FALSE
+3522,,,,,,,TRUE
+3529,,,5. Normal,,2/1/2021,1/1/2015,FALSE
+3565,,,,,,,FALSE
+3696,,,,,,,FALSE
+3762,,,,,,,FALSE
+3787,,,6. Residential,,,,FALSE
+3898,,,,Level 2 (i.e. liquid cooled),12/28/2022,12/28/2021,TRUE
+3950,,,,,10/1/2021,,TRUE
+3963,94545,,,,9/1/2020,8/31/2020,TRUE
+4005,,,,,,,FALSE
+4015,,,,,,,TRUE
+4017,,,,,,,TRUE
+4023,,,5. Normal,,,,TRUE
+4024,,,,,,1/7/2022,TRUE
+4068,,,6. Residential,Level 1 (i.e. air cooled),3/9/2023,3/9/2022,TRUE
+4083,,,,,,,TRUE
+4084,,,,,8/17/2022,8/18/2021,TRUE
+4130,,,8. Portable/RV/other,Level 1 (i.e. air cooled),4/19/2022,4/19/2021,TRUE
+4190,,,,Level 2 (i.e. liquid cooled),,,TRUE
+4200,,,,,,,TRUE
+4220,,,,,,,FALSE
+4242,,,,,,,TRUE
+4244,,,,,,,TRUE
+4246,,,,Level 2 (i.e. liquid cooled),3/27/2024,3/27/2023,TRUE
+4247,,,1. Life Safety,Level 3 (i.e. diesel),3/1/2024,3/1/2023,TRUE
+4248,,,5. Normal,Level 3 (i.e. diesel),3/23/2023,3/23/2022,TRUE
+4250,,,,Level 2 (i.e. liquid cooled),3/27/2024,3/27/2023,TRUE
+4251,,,,Level 2 (i.e. liquid cooled),1/27/2024,1/27/2023,TRUE
+4252,,,,Level 2 (i.e. liquid cooled),3/30/2024,3/30/2023,TRUE
+4253,,,,Level 2 (i.e. liquid cooled),3/31/2023,3/31/2023,TRUE
+4264,,,,Level 2 (i.e. liquid cooled),,,TRUE
+4265,,,,,,,TRUE
+4266,,,,,,,TRUE
+4273,,,,,,,TRUE
+4333,,,,,,,TRUE
+4406,,,,,,,TRUE
+4461,,,,,,,TRUE
+4470,,,,,,,TRUE
+4483,,,,,,,TRUE
+4512,,,1. Life Safety,Level 3 (i.e. diesel),,,TRUE
+4582,,,,,,,TRUE
+4604,11225,,,,,,TRUE
